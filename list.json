@@ -1,1725 +1,1727 @@
-[
+﻿[
     {
-        "name": "YTN뉴스",
-        "logo": "https://i.imgur.com/ByeeX5e.png",
         "group": "韩国",
+        "logo": "https://i.imgur.com/ByeeX5e.png",
+        "name": "YTN뉴스",
         "title": "YTN뉴스",
         "uris": [
             "https://m.youtube.com/watch?v=FJfwehhzIhw"
         ]
     },
     {
-        "name": "MBC뉴스",
-        "logo": "https://i.imgur.com/wmGJgYh.png",
         "group": "韩国",
+        "logo": "https://i.imgur.com/wmGJgYh.png",
+        "name": "MBC뉴스",
         "title": "MBC뉴스",
         "uris": [
             "https://m.youtube.com/watch?v=S3MU6abc2RA"
         ]
     },
     {
-        "name": "연합뉴스",
-        "logo": "https://i.imgur.com/3aLkU2I.png",
         "group": "韩国",
+        "logo": "https://i.imgur.com/3aLkU2I.png",
+        "name": "연합뉴스",
         "title": "연합뉴스",
         "uris": [
             "https://m.youtube.com/watch?v=6QZ_qc75ihU"
         ]
     },
     {
-        "name": "KBS뉴스",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",
         "group": "韩国",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",
+        "name": "KBS뉴스",
         "title": "KBS뉴스",
         "uris": [
             "https://m.youtube.com/watch?v=Dy0BBHR37_M"
         ]
     },
     {
-        "name": "KBS1TV.kr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",
         "group": "韩国",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png",
+        "name": "KBS1TV.kr",
         "title": "KBS1",
         "uris": [
             "http://mytv.dothome.co.kr/ch/public/1.php"
         ]
     },
     {
-        "name": "KBS2TV.kr",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",
         "group": "韩国",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",
+        "name": "KBS2TV.kr",
         "title": "KBS2",
         "uris": [
             "http://mytv.dothome.co.kr/ch/public/3.php"
         ]
     },
     {
-        "name": "KBS드라마",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",
         "group": "韩国",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",
+        "name": "KBS드라마",
         "title": "KBS드라마",
         "uris": [
             "https://m.youtube.com/watch?v=Cvuip6DvACs"
         ]
     },
     {
-        "name": "CCTV1",
-        "logo": "https://epg.iill.top/logo/CCTV1.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV1.png",
+        "name": "CCTV1",
         "title": "CCTV1",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8"
         ]
     },
     {
-        "name": "CCTV2",
-        "logo": "https://epg.iill.top/logo/CCTV2.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV2.png",
+        "name": "CCTV2",
         "title": "CCTV2",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8"
         ]
     },
     {
-        "name": "CCTV3",
-        "logo": "https://epg.iill.top/logo/CCTV3.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV3.png",
+        "name": "CCTV3",
         "title": "CCTV3",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"
         ]
     },
     {
-        "name": "CCTV4",
-        "logo": "https://epg.iill.top/logo/CCTV4.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV4.png",
+        "name": "CCTV4",
         "title": "CCTV4",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
         ]
     },
     {
-        "name": "CCTV5",
-        "logo": "https://epg.iill.top/logo/CCTV5.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV5.png",
+        "name": "CCTV5",
         "title": "CCTV5",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
         ]
     },
     {
-        "name": "CCTV5+",
-        "logo": "https://epg.iill.top/logo/CCTV5+.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV5+.png",
+        "name": "CCTV5+",
         "title": "CCTV5+",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8"
         ]
     },
     {
-        "name": "CCTV6",
-        "logo": "https://epg.iill.top/logo/CCTV6.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV6.png",
+        "name": "CCTV6",
         "title": "CCTV6",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8"
         ]
     },
     {
-        "name": "CCTV7",
-        "logo": "https://epg.iill.top/logo/CCTV7.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV7.png",
+        "name": "CCTV7",
         "title": "CCTV7",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
         ]
     },
     {
-        "name": "CCTV8",
-        "logo": "https://epg.iill.top/logo/CCTV8.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV8.png",
+        "name": "CCTV8",
         "title": "CCTV8",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
         ]
     },
     {
-        "name": "CCTV9",
-        "logo": "https://epg.iill.top/logo/CCTV9.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV9.png",
+        "name": "CCTV9",
         "title": "CCTV9",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
         ]
     },
     {
-        "name": "CCTV10",
-        "logo": "https://epg.iill.top/logo/CCTV10.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV10.png",
+        "name": "CCTV10",
         "title": "CCTV10",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8"
         ]
     },
     {
-        "name": "CCTV11",
-        "logo": "https://epg.iill.top/logo/CCTV11.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV11.png",
+        "name": "CCTV11",
         "title": "CCTV11",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8"
         ]
     },
     {
-        "name": "CCTV12",
-        "logo": "https://epg.iill.top/logo/CCTV12.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV12.png",
+        "name": "CCTV12",
         "title": "CCTV12",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8"
         ]
     },
     {
-        "name": "CCTV13",
-        "logo": "https://epg.iill.top/logo/CCTV13.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV13.png",
+        "name": "CCTV13",
         "title": "CCTV13",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8"
         ]
     },
     {
-        "name": "CCTV14",
-        "logo": "https://epg.iill.top/logo/CCTV14.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV14.png",
+        "name": "CCTV14",
         "title": "CCTV14",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8"
         ]
     },
     {
-        "name": "CCTV15",
-        "logo": "https://epg.iill.top/logo/CCTV15.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV15.png",
+        "name": "CCTV15",
         "title": "CCTV15",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8"
         ]
     },
     {
-        "name": "CCTV16",
-        "logo": "https://epg.iill.top/logo/CCTV16.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV16.png",
+        "name": "CCTV16",
         "title": "CCTV16",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
         ]
     },
     {
-        "name": "CCTV17",
-        "logo": "https://epg.iill.top/logo/CCTV17.png",
         "group": "央视频道",
+        "logo": "https://epg.iill.top/logo/CCTV17.png",
+        "name": "CCTV17",
         "title": "CCTV17",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
         ]
     },
     {
-        "name": "湖南卫视",
-        "logo": "https://epg.iill.top/logo/湖南卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/湖南卫视.png",
+        "name": "湖南卫视",
         "title": "湖南卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8"
         ]
     },
     {
-        "name": "浙江卫视",
-        "logo": "https://epg.iill.top/logo/浙江卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/浙江卫视.png",
+        "name": "浙江卫视",
         "title": "浙江卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8"
         ]
     },
     {
-        "name": "江苏卫视",
-        "logo": "https://epg.iill.top/logo/江苏卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/江苏卫视.png",
+        "name": "江苏卫视",
         "title": "江苏卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8"
         ]
     },
     {
-        "name": "东方卫视",
-        "logo": "https://epg.iill.top/logo/东方卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/东方卫视.png",
+        "name": "东方卫视",
         "title": "东方卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8"
         ]
     },
     {
-        "name": "广东卫视",
-        "logo": "https://epg.iill.top/logo/广东卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/广东卫视.png",
+        "name": "广东卫视",
         "title": "广东卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8"
         ]
     },
     {
-        "name": "广西卫视",
-        "logo": "https://epg.iill.top/logo/广西卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/广西卫视.png",
+        "name": "广西卫视",
         "title": "广西卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8"
         ]
     },
     {
-        "name": "深圳卫视",
-        "logo": "https://epg.iill.top/logo/深圳卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/深圳卫视.png",
+        "name": "深圳卫视",
         "title": "深圳卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8"
         ]
     },
     {
-        "name": "北京卫视",
-        "logo": "https://epg.iill.top/logo/北京卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/北京卫视.png",
+        "name": "北京卫视",
         "title": "北京卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8"
         ]
     },
     {
-        "name": "东南卫视",
-        "logo": "https://epg.iill.top/logo/东南卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/东南卫视.png",
+        "name": "东南卫视",
         "title": "东南卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8"
         ]
     },
     {
-        "name": "四川卫视",
-        "logo": "https://epg.iill.top/logo/四川卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/四川卫视.png",
+        "name": "四川卫视",
         "title": "四川卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8"
         ]
     },
     {
-        "name": "天津卫视",
-        "logo": "https://epg.iill.top/logo/天津卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/天津卫视.png",
+        "name": "天津卫视",
         "title": "天津卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8"
         ]
     },
     {
-        "name": "安徽卫视",
-        "logo": "https://epg.iill.top/logo/安徽卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/安徽卫视.png",
+        "name": "安徽卫视",
         "title": "安徽卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8"
         ]
     },
     {
-        "name": "山东卫视",
-        "logo": "https://epg.iill.top/logo/山东卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/山东卫视.png",
+        "name": "山东卫视",
         "title": "山东卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8"
         ]
     },
     {
-        "name": "江西卫视",
-        "logo": "https://epg.iill.top/logo/江西卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/江西卫视.png",
+        "name": "江西卫视",
         "title": "江西卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8"
         ]
     },
     {
-        "name": "河北卫视",
-        "logo": "https://epg.iill.top/logo/河北卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/河北卫视.png",
+        "name": "河北卫视",
         "title": "河北卫视IPV6",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8"
         ]
     },
     {
-        "name": "河南卫视",
-        "logo": "https://epg.iill.top/logo/河南卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/河南卫视.png",
+        "name": "河南卫视",
         "title": "河南卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8"
         ]
     },
     {
-        "name": "海南卫视",
-        "logo": "https://epg.iill.top/logo/海南卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/海南卫视.png",
+        "name": "海南卫视",
         "title": "海南卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8"
         ]
     },
     {
-        "name": "湖北卫视",
-        "logo": "https://epg.iill.top/logo/湖北卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/湖北卫视.png",
+        "name": "湖北卫视",
         "title": "湖北卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8"
         ]
     },
     {
-        "name": "贵州卫视",
-        "logo": "https://epg.iill.top/logo/贵州卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/贵州卫视.png",
+        "name": "贵州卫视",
         "title": "贵州卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8"
         ]
     },
     {
-        "name": "辽宁卫视",
-        "logo": "https://epg.iill.top/logo/辽宁卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/辽宁卫视.png",
+        "name": "辽宁卫视",
         "title": "辽宁卫视IPV6",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8"
         ]
     },
     {
-        "name": "重庆卫视",
-        "logo": "https://epg.iill.top/logo/重庆卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/重庆卫视.png",
+        "name": "重庆卫视",
         "title": "重庆卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8"
         ]
     },
     {
-        "name": "吉林卫视",
-        "logo": "https://epg.iill.top/logo/吉林卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/吉林卫视.png",
+        "name": "吉林卫视",
         "title": "吉林卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8"
         ]
     },
     {
-        "name": "黑龙江卫视",
-        "logo": "https://epg.iill.top/logo/黑龙江卫视.png",
         "group": "卫视频道",
+        "logo": "https://epg.iill.top/logo/黑龙江卫视.png",
+        "name": "黑龙江卫视",
         "title": "黑龙江卫视",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8"
         ]
     },
     {
-        "name": "哒啵赛事",
-        "logo": "https://epg.iill.top/logo/NewTV哒啵赛事.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV哒啵赛事.png",
+        "name": "哒啵赛事",
         "title": "哒啵赛事",
-        "uris": ": [",
-        "http": {
-            "name": "黑莓动画",
-            "logo": "https://epg.iill.top/logo/NewTV黑莓动画.png",
-            "group": "NewTV",
-            "title": "黑莓动画",
-            "uris": [
-                "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8"
-            ]
-        }
+        "uris": [
+            "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8"
+        ]
     },
     {
-        "name": "黑莓电影",
-        "logo": "https://epg.iill.top/logo/NewTV黑莓电影.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV黑莓动画.png",
+        "name": "黑莓动画",
+        "title": "黑莓动画",
+        "uris": [
+            "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8"
+        ]
+    },
+    {
+        "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV黑莓电影.png",
+        "name": "黑莓电影",
         "title": "黑莓电影",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8"
         ]
     },
     {
-        "name": "超级电影",
-        "logo": "https://epg.iill.top/logo/NewTV超级电影.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV超级电影.png",
+        "name": "超级电影",
         "title": "超级电影",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8"
         ]
     },
     {
-        "name": "超级电视剧",
-        "logo": "https://epg.iill.top/logo/NewTV超级电视剧.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV超级电视剧.png",
+        "name": "超级电视剧",
         "title": "超级电视剧",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8"
         ]
     },
     {
-        "name": "超级体育",
-        "logo": "https://epg.iill.top/logo/NewTV超级体育.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV超级体育.png",
+        "name": "超级体育",
         "title": "超级体育",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8"
         ]
     },
     {
-        "name": "超级综艺",
-        "logo": "https://epg.iill.top/logo/NewTV超级综艺.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV超级综艺.png",
+        "name": "超级综艺",
         "title": "超级综艺",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8"
         ]
     },
     {
-        "name": "金牌综艺",
-        "logo": "https://epg.iill.top/logo/NewTV金牌综艺.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV金牌综艺.png",
+        "name": "金牌综艺",
         "title": "金牌综艺",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8"
         ]
     },
     {
-        "name": "东北热剧",
-        "logo": "https://epg.iill.top/logo/NewTV东北热剧.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV东北热剧.png",
+        "name": "东北热剧",
         "title": "东北热剧",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8"
         ]
     },
     {
-        "name": "古装剧场",
-        "logo": "https://epg.iill.top/logo/NewTV古装剧场.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV古装剧场.png",
+        "name": "古装剧场",
         "title": "古装剧场",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8"
         ]
     },
     {
-        "name": "欢乐剧场",
-        "logo": "https://epg.iill.top/logo/NewTV欢乐剧场.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV欢乐剧场.png",
+        "name": "欢乐剧场",
         "title": "欢乐剧场",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8"
         ]
     },
     {
-        "name": "怡伴健康",
-        "logo": "https://epg.iill.top/logo/NewTV怡伴健康.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV怡伴健康.png",
+        "name": "怡伴健康",
         "title": "怡伴健康",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8"
         ]
     },
     {
-        "name": "潮妈辣婆",
-        "logo": "https://epg.iill.top/logo/NewTV潮妈辣婆.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV潮妈辣婆.png",
+        "name": "潮妈辣婆",
         "title": "潮妈辣婆",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8"
         ]
     },
     {
-        "name": "军旅剧场",
-        "logo": "https://epg.iill.top/logo/NewTV军旅剧场.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV军旅剧场.png",
+        "name": "军旅剧场",
         "title": "军旅剧场",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8"
         ]
     },
     {
-        "name": "军事评论",
-        "logo": "https://epg.iill.top/logo/NewTV军事评论.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV军事评论.png",
+        "name": "军事评论",
         "title": "军事评论",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8"
         ]
     },
     {
-        "name": "中国功夫",
-        "logo": "https://epg.iill.top/logo/NewTV中国功夫.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV中国功夫.png",
+        "name": "中国功夫",
         "title": "中国功夫",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8"
         ]
     },
     {
-        "name": "农业致富",
-        "logo": "https://epg.iill.top/logo/NewTV农业致富.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV农业致富.png",
+        "name": "农业致富",
         "title": "农业致富",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8"
         ]
     },
     {
-        "name": "动作电影",
-        "logo": "https://epg.iill.top/logo/NewTV动作电影.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV动作电影.png",
+        "name": "动作电影",
         "title": "动作电影",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8"
         ]
     },
     {
-        "name": "家庭剧场",
-        "logo": "https://epg.iill.top/logo/NewTV家庭剧场.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV家庭剧场.png",
+        "name": "家庭剧场",
         "title": "家庭剧场",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8"
         ]
     },
     {
-        "name": "惊悚悬疑",
-        "logo": "https://epg.iill.top/logo/NewTV惊悚悬疑.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV惊悚悬疑.png",
+        "name": "惊悚悬疑",
         "title": "惊悚悬疑",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8"
         ]
     },
     {
-        "name": "武博世界",
-        "logo": "https://epg.iill.top/logo/NewTV武博世界.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV武博世界.png",
+        "name": "武博世界",
         "title": "武博世界",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8"
         ]
     },
     {
-        "name": "炫舞未来",
-        "logo": "https://epg.iill.top/logo/NewTV炫舞未来.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV炫舞未来.png",
+        "name": "炫舞未来",
         "title": "炫舞未来",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8"
         ]
     },
     {
-        "name": "爱情喜剧",
-        "logo": "https://epg.iill.top/logo/NewTV爱情喜剧.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV爱情喜剧.png",
+        "name": "爱情喜剧",
         "title": "爱情喜剧",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8"
         ]
     },
     {
-        "name": "精品萌宠",
-        "logo": "https://epg.iill.top/logo/NewTV精品萌宠.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV精品萌宠.png",
+        "name": "精品萌宠",
         "title": "精品萌宠",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8"
         ]
     },
     {
-        "name": "精品体育",
-        "logo": "https://epg.iill.top/logo/NewTV精品体育.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV精品体育.png",
+        "name": "精品体育",
         "title": "精品体育",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8"
         ]
     },
     {
-        "name": "精品大剧",
-        "logo": "https://epg.iill.top/logo/NewTV精品大剧.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV精品大剧.png",
+        "name": "精品大剧",
         "title": "精品大剧",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8"
         ]
     },
     {
-        "name": "精品记录",
-        "logo": "https://epg.iill.top/logo/NewTV精品记录.png",
         "group": "NewTV",
+        "logo": "https://epg.iill.top/logo/NewTV精品记录.png",
+        "name": "精品记录",
         "title": "精品记录",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8"
         ]
     },
     {
-        "name": "咪咕全民热练",
-        "logo": "https://epg.iill.top/logo/咪咕善跑.png",
         "group": "体育频道",
+        "logo": "https://epg.iill.top/logo/咪咕善跑.png",
+        "name": "咪咕全民热练",
         "title": "咪咕运动",
         "uris": [
             "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8"
         ]
     },
     {
-        "name": "咪咕直播 𝟙",
-        "logo": "https://epg.iill.top/logo/咪咕.png",
         "group": "体育频道",
+        "logo": "https://epg.iill.top/logo/咪咕.png",
+        "name": "咪咕直播 𝟙",
         "title": "咪咕直播 𝟙",
         "uris": [
             "http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8"
         ]
     },
     {
-        "name": "咪咕直播 𝟚",
-        "logo": "https://epg.iill.top/logo/咪咕.png",
         "group": "体育频道",
+        "logo": "https://epg.iill.top/logo/咪咕.png",
+        "name": "咪咕直播 𝟚",
         "title": "咪咕直播 𝟚",
         "uris": [
             "http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8"
         ]
     },
     {
-        "name": "咪咕直播 𝟛",
-        "logo": "https://epg.iill.top/logo/咪咕.png",
         "group": "体育频道",
+        "logo": "https://epg.iill.top/logo/咪咕.png",
+        "name": "咪咕直播 𝟛",
         "title": "咪咕直播 𝟛",
         "uris": [
             "http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8"
         ]
     },
     {
-        "name": "咪咕直播 𝟜",
-        "logo": "https://epg.iill.top/logo/咪咕.png",
         "group": "体育频道",
+        "logo": "https://epg.iill.top/logo/咪咕.png",
+        "name": "咪咕直播 𝟜",
         "title": "咪咕直播 𝟜",
         "uris": [
             "http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8"
         ]
     },
     {
-        "name": "BesTV 𝟙",
-        "logo": "https://epg.iill.top/logo/百事通.png",
         "group": "体育频道",
+        "logo": "https://epg.iill.top/logo/百事通.png",
+        "name": "BesTV 𝟙",
         "title": "BesTV 𝟙",
         "uris": [
             "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989"
         ]
     },
     {
-        "name": "BesTV 𝟚",
-        "logo": "https://epg.iill.top/logo/百事通.png",
         "group": "体育频道",
+        "logo": "https://epg.iill.top/logo/百事通.png",
+        "name": "BesTV 𝟚",
         "title": "BesTV 𝟚",
         "uris": [
             "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989"
         ]
     },
     {
-        "name": "BesTV 𝟛",
-        "logo": "https://epg.iill.top/logo/百事通.png",
         "group": "体育频道",
+        "logo": "https://epg.iill.top/logo/百事通.png",
+        "name": "BesTV 𝟛",
         "title": "BesTV 𝟛",
         "uris": [
             "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989"
         ]
     },
     {
-        "name": "BesTV 𝟜",
-        "logo": "https://epg.iill.top/logo/百事通.png",
         "group": "体育频道",
+        "logo": "https://epg.iill.top/logo/百事通.png",
+        "name": "BesTV 𝟜",
         "title": "BesTV 𝟜",
         "uris": [
             "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281&yang-1989"
         ]
     },
     {
-        "name": "BesTV 𝟝",
-        "logo": "https://epg.iill.top/logo/百事通.png",
         "group": "体育频道",
+        "logo": "https://epg.iill.top/logo/百事通.png",
+        "name": "BesTV 𝟝",
         "title": "BesTV 𝟝",
         "uris": [
             "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281&yang-1989"
         ]
     },
     {
-        "name": "BesTV 𝟞",
-        "logo": "https://epg.iill.top/logo/百事通.png",
         "group": "体育频道",
+        "logo": "https://epg.iill.top/logo/百事通.png",
+        "name": "BesTV 𝟞",
         "title": "BesTV 𝟞",
         "uris": [
             "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989"
         ]
     },
     {
-        "name": "BesTV 𝟟",
-        "logo": "https://epg.iill.top/logo/百事通.png",
         "group": "体育频道",
+        "logo": "https://epg.iill.top/logo/百事通.png",
+        "name": "BesTV 𝟟",
         "title": "BesTV 𝟟",
         "uris": [
             "http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989"
         ]
     },
     {
-        "name": "B站CS 2",
-        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
+        "name": "B站CS 2",
         "title": "B站CS 2",
         "uris": [
             "http://live.iill.top/bilibili.php?id=21622811"
         ]
     },
     {
-        "name": "B站英雄联盟",
-        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
+        "name": "B站英雄联盟",
         "title": "B站英雄联盟",
         "uris": [
             "http://live.iill.top/bilibili.php?id=6"
         ]
     },
     {
-        "name": "虎牙英雄联盟 𝟙",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙英雄联盟 𝟙",
         "title": "虎牙英雄联盟 𝟙",
         "uris": [
             "http://live.iill.top/huya.php?id=660000"
         ]
     },
     {
-        "name": "虎牙英雄联盟 𝟚",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙英雄联盟 𝟚",
         "title": "虎牙英雄联盟 𝟚",
         "uris": [
             "http://live.iill.top/huya.php?id=660001"
         ]
     },
     {
-        "name": "斗鱼英雄联盟 𝟙",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼英雄联盟 𝟙",
         "title": "斗鱼英雄联盟 𝟙",
         "uris": [
             "http://live.iill.top/douyu.php?id=288016"
         ]
     },
     {
-        "name": "斗鱼英雄联盟 𝟚",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼英雄联盟 𝟚",
         "title": "斗鱼英雄联盟 𝟚",
         "uris": [
             "http://live.iill.top/douyu.php?id=424559"
         ]
     },
     {
-        "name": "B站英雄联盟手游",
-        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
+        "name": "B站英雄联盟手游",
         "title": "B站英雄联盟手游",
         "uris": [
             "http://live.iill.top/bilibili.php?id=23138275"
         ]
     },
     {
-        "name": "B站王者荣耀 𝟙",
-        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
+        "name": "B站王者荣耀 𝟙",
         "title": "B站王者荣耀 𝟙",
         "uris": [
             "http://live.iill.top/bilibili.php?id=55"
         ]
     },
     {
-        "name": "B站王者荣耀 𝟚",
-        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
+        "name": "B站王者荣耀 𝟚",
         "title": "B站王者荣耀 𝟚",
         "uris": [
             "http://live.iill.top/bilibili.php?id=21654762"
         ]
     },
     {
-        "name": "虎牙王者荣耀 𝟙",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙王者荣耀 𝟙",
         "title": "虎牙王者荣耀 𝟙",
         "uris": [
             "http://live.iill.top/huya.php?id=660002"
         ]
     },
     {
-        "name": "虎牙王者荣耀 𝟚",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙王者荣耀 𝟚",
         "title": "虎牙王者荣耀 𝟚",
         "uris": [
             "http://live.iill.top/huya.php?id=660164"
         ]
     },
     {
-        "name": "斗鱼王者荣耀 𝟙",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼王者荣耀 𝟙",
         "title": "斗鱼王者荣耀 𝟙",
         "uris": [
             "http://live.iill.top/douyu.php?id=1863767"
         ]
     },
     {
-        "name": "斗鱼王者荣耀 𝟚",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼王者荣耀 𝟚",
         "title": "斗鱼王者荣耀 𝟚",
         "uris": [
             "http://live.iill.top/douyu.php?id=1984839"
         ]
     },
     {
-        "name": "B站绝地求生",
-        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
+        "name": "B站绝地求生",
         "title": "B站绝地求生",
         "uris": [
             "http://live.iill.top/bilibili.php?id=98"
         ]
     },
     {
-        "name": "虎牙绝地求生 𝟙",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙绝地求生 𝟙",
         "title": "虎牙绝地求生 𝟙",
         "uris": [
             "http://live.iill.top/huya.php?id=660004"
         ]
     },
     {
-        "name": "虎牙绝地求生 𝟚",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙绝地求生 𝟚",
         "title": "虎牙绝地求生 𝟚",
         "uris": [
             "http://live.iill.top/huya.php?id=660005"
         ]
     },
     {
-        "name": "斗鱼绝地求生",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼绝地求生",
         "title": "斗鱼绝地求生",
         "uris": [
             "http://live.iill.top/douyu.php?id=100"
         ]
     },
     {
-        "name": "虎牙和平精英",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙和平精英",
         "title": "虎牙和平精英",
         "uris": [
             "http://live.iill.top/huya.php?id=660006"
         ]
     },
     {
-        "name": "斗鱼和平精英",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼和平精英",
         "title": "斗鱼和平精英",
         "uris": [
             "http://live.iill.top/douyu.php?id=999"
         ]
     },
     {
-        "name": "虎牙金铲铲之战",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙金铲铲之战",
         "title": "虎牙金铲铲之战",
         "uris": [
             "http://live.iill.top/huya.php?id=660579"
         ]
     },
     {
-        "name": "斗鱼金铲铲之战",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼金铲铲之战",
         "title": "斗鱼金铲铲之战",
         "uris": [
             "http://live.iill.top/douyu.php?id=9715241"
         ]
     },
     {
-        "name": "虎牙DOTA2",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙DOTA2",
         "title": "虎牙DOTA2",
         "uris": [
             "http://live.iill.top/huya.php?id=660118"
         ]
     },
     {
-        "name": "斗鱼DOTA2",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼DOTA2",
         "title": "斗鱼DOTA2",
         "uris": [
             "http://live.iill.top/douyu.php?id=3811559"
         ]
     },
     {
-        "name": "斗鱼云顶之弈",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼云顶之弈",
         "title": "斗鱼云顶之弈",
         "uris": [
             "http://live.iill.top/douyu.php?id=522423"
         ]
     },
     {
-        "name": "虎牙永劫无间",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙永劫无间",
         "title": "虎牙永劫无间",
         "uris": [
             "http://live.iill.top/huya.php?id=660115"
         ]
     },
     {
-        "name": "斗鱼永劫无间",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼永劫无间",
         "title": "斗鱼永劫无间",
         "uris": [
             "http://live.iill.top/huya.php?id=9662891"
         ]
     },
     {
-        "name": "B站使命召唤手游",
-        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
+        "name": "B站使命召唤手游",
         "title": "B站使命召唤手游",
         "uris": [
             "http://live.iill.top/bilibili.php?id=22741849"
         ]
     },
     {
-        "name": "虎牙使命召唤手游",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙使命召唤手游",
         "title": "虎牙使命召唤手游",
         "uris": [
             "http://live.iill.top/huya.php?id=11718629"
         ]
     },
     {
-        "name": "斗鱼使命召唤手游",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼使命召唤手游",
         "title": "斗鱼使命召唤手游",
         "uris": [
             "http://live.iill.top/douyu.php?id=9223245"
         ]
     },
     {
-        "name": "虎牙穿越火线",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙穿越火线",
         "title": "虎牙穿越火线",
         "uris": [
             "http://live.iill.top/huya.php?id=660101"
         ]
     },
     {
-        "name": "斗鱼穿越火线 𝟙",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼穿越火线 𝟙",
         "title": "斗鱼穿越火线 𝟙",
         "uris": [
             "http://live.iill.top/douyu.php?id=605964"
         ]
     },
     {
-        "name": "斗鱼穿越火线 𝟚",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼穿越火线 𝟚",
         "title": "斗鱼穿越火线 𝟚",
         "uris": [
             "http://live.iill.top/douyu.php?id=5388537"
         ]
     },
     {
-        "name": "虎牙穿越火线手游",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙穿越火线手游",
         "title": "虎牙穿越火线手游",
         "uris": [
             "http://live.iill.top/huya.php?id=660102"
         ]
     },
     {
-        "name": "B站第五人格",
-        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
+        "name": "B站第五人格",
         "title": "B站第五人格",
         "uris": [
             "http://live.iill.top/bilibili.php?id=5555"
         ]
     },
     {
-        "name": "虎牙第五人格",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙第五人格",
         "title": "虎牙第五人格",
         "uris": [
             "http://live.iill.top/huya.php?id=idvesports"
         ]
     },
     {
-        "name": "斗鱼第五人格 ",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼第五人格 ",
         "title": "斗鱼第五人格 ",
         "uris": [
             "http://live.iill.top/douyu.php?id=3226194"
         ]
     },
     {
-        "name": "虎牙逆战",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙逆战",
         "title": "虎牙逆战",
         "uris": [
             "http://live.iill.top/huya.php?id=nsl2021"
         ]
     },
     {
-        "name": "B站无畏契约 ",
-        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
+        "name": "B站无畏契约 ",
         "title": "B站无畏契约 ",
         "uris": [
             "http://live.iill.top/bilibili.php?id=22908869"
         ]
     },
     {
-        "name": "虎牙无畏契约 ",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "虎牙无畏契约 ",
         "title": "虎牙无畏契约 ",
         "uris": [
             "http://live.iill.top/huya.php?id=660679"
         ]
     },
     {
-        "name": "斗鱼无畏契约 ",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼无畏契约 ",
         "title": "斗鱼无畏契约 ",
         "uris": [
             "http://live.iill.top/douyu.php?id=4585645"
         ]
     },
     {
-        "name": "斗鱼原神",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼原神",
         "title": "斗鱼原神",
         "uris": [
             "http://live.iill.top/douyu.php?id=10853239"
         ]
     },
     {
-        "name": "B站QQ飞车手游",
-        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
+        "name": "B站QQ飞车手游",
         "title": "B站QQ飞车手游",
         "uris": [
             "http://live.iill.top/bilibili.php?id=21743919"
         ]
     },
     {
-        "name": "斗鱼QQ飞车手游",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼QQ飞车手游",
         "title": "斗鱼QQ飞车手游",
         "uris": [
             "http://live.iill.top/douyu.php?id=5040227"
         ]
     },
     {
-        "name": "斗鱼梦幻西游·手游",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼梦幻西游·手游",
         "title": "斗鱼梦幻西游·手游",
         "uris": [
             "http://live.iill.top/huya.php?id=9163712"
         ]
     },
     {
-        "name": "斗鱼街霸",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼街霸",
         "title": "斗鱼街霸",
         "uris": [
             "http://live.iill.top/huya.php?id=11437"
         ]
     },
     {
-        "name": "B站JJ斗地主",
-        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/哔哩哔哩.png",
+        "name": "B站JJ斗地主",
         "title": "B站JJ斗地主",
         "uris": [
             "http://live.iill.top/bilibili.php?id=22021983"
         ]
     },
     {
-        "name": "斗鱼JJ斗地主",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼JJ斗地主",
         "title": "斗鱼JJ斗地主",
         "uris": [
             "http://live.iill.top/douyu.php?id=488743"
         ]
     },
     {
-        "name": "斗鱼我的世界",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼我的世界",
         "title": "斗鱼我的世界",
         "uris": [
             "http://live.iill.top/douyu.php?id=738878"
         ]
     },
     {
-        "name": "斗鱼FIFA",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼FIFA",
         "title": "斗鱼FIFA",
         "uris": [
             "http://live.iill.top/douyu.php?id=7692166"
         ]
     },
     {
-        "name": "斗鱼火影忍者",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼火影忍者",
         "title": "斗鱼火影忍者",
         "uris": [
             "http://live.iill.top/douyu.php?id=1997723"
         ]
     },
     {
-        "name": "斗鱼跑跑卡丁车",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼跑跑卡丁车",
         "title": "斗鱼跑跑卡丁车",
         "uris": [
             "http://live.iill.top/douyu.php?id=7722576"
         ]
     },
     {
-        "name": "斗鱼跑跑卡丁车手游",
-        "logo": "https://epg.iill.top/logo/斗鱼.png",
         "group": "游戏赛事",
+        "logo": "https://epg.iill.top/logo/斗鱼.png",
+        "name": "斗鱼跑跑卡丁车手游",
         "title": "斗鱼跑跑卡丁车手游",
         "uris": [
             "http://live.iill.top/douyu.php?id=6672862"
         ]
     },
     {
-        "name": "埋堆堆𝟙",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟙",
         "title": "埋堆堆𝟙",
         "uris": [
             "http://live.iill.top/huya.php?id=23740156"
         ]
     },
     {
-        "name": "埋堆堆𝟚",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟚",
         "title": "埋堆堆𝟚",
         "uris": [
             "http://live.iill.top/huya.php?id=23749096"
         ]
     },
     {
-        "name": "埋堆堆𝟛",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟛",
         "title": "埋堆堆𝟛",
         "uris": [
             "http://live.iill.top/huya.php?id=23735126"
         ]
     },
     {
-        "name": "埋堆堆𝟜",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟜",
         "title": "埋堆堆𝟜",
         "uris": [
             "http://live.iill.top/huya.php?id=23903123"
         ]
     },
     {
-        "name": "埋堆堆𝟝",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟝",
         "title": "埋堆堆𝟝",
         "uris": [
             "http://live.iill.top/huya.php?id=23734169"
         ]
     },
     {
-        "name": "埋堆堆𝟞",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟞",
         "title": "埋堆堆𝟞",
         "uris": [
             "http://live.iill.top/huya.php?id=23863804"
         ]
     },
     {
-        "name": "埋堆堆𝟟",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟟",
         "title": "埋堆堆𝟟",
         "uris": [
             "http://live.iill.top/huya.php?id=23865080"
         ]
     },
     {
-        "name": "埋堆堆𝟠",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟠",
         "title": "埋堆堆𝟠",
         "uris": [
             "http://live.iill.top/huya.php?id=23864973"
         ]
     },
     {
-        "name": "埋堆堆𝟡",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟡",
         "title": "埋堆堆𝟡",
         "uris": [
             "http://live.iill.top/huya.php?id=23903130"
         ]
     },
     {
-        "name": "埋堆堆𝟙𝟘",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟙𝟘",
         "title": "埋堆堆𝟙𝟘",
         "uris": [
             "http://live.iill.top/huya.php?id=23860039"
         ]
     },
     {
-        "name": "埋堆堆𝟙𝟙",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟙𝟙",
         "title": "埋堆堆𝟙𝟙",
         "uris": [
             "http://live.iill.top/huya.php?id=23903183"
         ]
     },
     {
-        "name": "埋堆堆𝟙𝟚",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟙𝟚",
         "title": "埋堆堆𝟙𝟚",
         "uris": [
             "http://live.iill.top/huya.php?id=23903196"
         ]
     },
     {
-        "name": "埋堆堆𝟙𝟛",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟙𝟛",
         "title": "埋堆堆𝟙𝟛",
         "uris": [
             "http://live.iill.top/huya.php?id=23728674"
         ]
     },
     {
-        "name": "埋堆堆𝟙𝟜",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟙𝟜",
         "title": "埋堆堆𝟙𝟜",
         "uris": [
             "http://live.iill.top/huya.php?id=23865036"
         ]
     },
     {
-        "name": "埋堆堆𝟙𝟝",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟙𝟝",
         "title": "埋堆堆𝟙𝟝",
         "uris": [
             "http://live.iill.top/huya.php?id=23829543"
         ]
     },
     {
-        "name": "埋堆堆𝟙𝟞",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟙𝟞",
         "title": "埋堆堆𝟙𝟞",
         "uris": [
             "http://live.iill.top/huya.php?id=23865161"
         ]
     },
     {
-        "name": "埋堆堆𝟙𝟟",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟙𝟟",
         "title": "埋堆堆𝟙𝟟",
         "uris": [
             "http://live.iill.top/huya.php?id=23865058"
         ]
     },
     {
-        "name": "埋堆堆𝟙𝟠",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟙𝟠",
         "title": "埋堆堆𝟙𝟠",
         "uris": [
             "http://live.iill.top/huya.php?id=23824164"
         ]
     },
     {
-        "name": "埋堆堆𝟙𝟡",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟙𝟡",
         "title": "埋堆堆𝟙𝟡",
         "uris": [
             "http://live.iill.top/huya.php?id=23863796"
         ]
     },
     {
-        "name": "埋堆堆𝟚𝟘",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟚𝟘",
         "title": "埋堆堆𝟚𝟘",
         "uris": [
             "http://live.iill.top/huya.php?id=23734183"
         ]
     },
     {
-        "name": "埋堆堆𝟚𝟙",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟚𝟙",
         "title": "埋堆堆𝟚𝟙",
         "uris": [
             "http://live.iill.top/huya.php?id=23728660"
         ]
     },
     {
-        "name": "埋堆堆𝟚𝟚",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟚𝟚",
         "title": "埋堆堆𝟚𝟚",
         "uris": [
             "http://live.iill.top/huya.php?id=23865142"
         ]
     },
     {
-        "name": "埋堆堆𝟚𝟛",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟚𝟛",
         "title": "埋堆堆𝟚𝟛",
         "uris": [
             "http://live.iill.top/huya.php?id=23734246"
         ]
     },
     {
-        "name": "埋堆堆𝟚𝟜",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟚𝟜",
         "title": "埋堆堆𝟚𝟜",
         "uris": [
             "http://live.iill.top/huya.php?id=23865171"
         ]
     },
     {
-        "name": "埋堆堆𝟚𝟝",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟚𝟝",
         "title": "埋堆堆𝟚𝟝",
         "uris": [
             "http://live.iill.top/huya.php?id=23734256"
         ]
     },
     {
-        "name": "埋堆堆𝟚𝟞",
-        "logo": "https://epg.iill.top/logo/埋堆堆.png",
         "group": "埋堆堆",
+        "logo": "https://epg.iill.top/logo/埋堆堆.png",
+        "name": "埋堆堆𝟚𝟞",
         "title": "埋堆堆𝟚𝟞",
         "uris": [
             "http://live.iill.top/huya.php?id=23749083"
         ]
     },
     {
-        "name": "电影1",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视解说",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "电影1",
         "title": "电影1",
         "uris": [
             "http://live.iill.top/huya.php?id=20289754"
         ]
     },
     {
-        "name": "电影2",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视解说",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "电影2",
         "title": "电影2",
         "uris": [
             "http://live.iill.top/huya.php?id=24983280"
         ]
     },
     {
-        "name": "电影3",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视解说",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "电影3",
         "title": "电影3",
         "uris": [
             "http://live.iill.top/huya.php?id=24396428"
         ]
     },
     {
-        "name": "电视剧1",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视解说",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "电视剧1",
         "title": "电视剧1",
         "uris": [
             "http://live.iill.top/huya.php?id=21277391"
         ]
     },
     {
-        "name": "电视剧2",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视解说",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "电视剧2",
         "title": "电视剧2",
         "uris": [
             "http://live.iill.top/huya.php?id=25018873"
         ]
     },
     {
-        "name": "动漫1",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视解说",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "动漫1",
         "title": "动漫1",
         "uris": [
             "http://live.iill.top/huya.php?id=19757963"
         ]
     },
     {
-        "name": "恐怖电影",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视解说",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "恐怖电影",
         "title": "恐怖电影",
         "uris": [
             "http://live.iill.top/huya.php?id=23419131"
         ]
     },
     {
-        "name": "漫威",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视解说",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "漫威",
         "title": "漫威",
         "uris": [
             "http://live.iill.top/huya.php?id=17089779"
         ]
     },
     {
-        "name": "美剧",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视解说",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "美剧",
         "title": "美剧",
         "uris": [
             "http://live.iill.top/huya.php?id=20488841"
         ]
     },
     {
-        "name": "七龙珠",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视解说",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "七龙珠",
         "title": "七龙珠",
         "uris": [
             "http://live.iill.top/huya.php?id=25650806"
         ]
     },
     {
-        "name": "止戈电影",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视解说",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "止戈电影",
         "title": "止戈电影",
         "uris": [
             "http://live.iill.top/huya.php?id=19863777"
         ]
     },
     {
-        "name": "挨饿德1",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视其他",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "挨饿德1",
         "title": "挨饿德1",
         "uris": [
             "http://live.iill.top/huya.php?id=20985858"
         ]
     },
     {
-        "name": "挨饿德2",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视其他",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "挨饿德2",
         "title": "挨饿德2",
         "uris": [
             "http://live.iill.top/huya.php?id=17693860"
         ]
     },
     {
-        "name": "互扇巴掌大赛",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视其他",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "互扇巴掌大赛",
         "title": "互扇巴掌大赛",
         "uris": [
             "http://live.iill.top/huya.php?id=20072873"
         ]
     },
     {
-        "name": "荒野求生",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视其他",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "荒野求生",
         "title": "荒野求生",
         "uris": [
             "http://live.iill.top/huya.php?id=593667"
         ]
     },
     {
-        "name": "野行者",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视其他",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "野行者",
         "title": "野行者",
         "uris": [
             "http://live.iill.top/huya.php?id=20072663"
         ]
     },
     {
-        "name": "跳舞",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视其他",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "跳舞",
         "title": "跳舞",
         "uris": [
             "http://live.iill.top/huya.php?id=24634408"
         ]
     },
     {
-        "name": "茶啊二中",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视动漫",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "茶啊二中",
         "title": "茶啊二中",
         "uris": [
             "http://live.iill.top/huya.php?id=11213191"
         ]
     },
     {
-        "name": "哆啦A梦",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视动漫",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "哆啦A梦",
         "title": "哆啦A梦",
         "uris": [
             "http://live.iill.top/huya.php?id=11601963"
         ]
     },
     {
-        "name": "航海王",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视动漫",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "航海王",
         "title": "航海王",
         "uris": [
             "http://live.iill.top/huya.php?id=16913382"
         ]
     },
     {
-        "name": "七龙珠",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视动漫",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "七龙珠",
         "title": "七龙珠",
         "uris": [
             "http://live.iill.top/huya.php?id=11601966"
         ]
     },
     {
-        "name": "猫和老鼠",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视动漫",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "猫和老鼠",
         "title": "猫和老鼠",
         "uris": [
             "http://live.iill.top/huya.php?id=11352879"
         ]
     },
     {
-        "name": "中华小当家",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视动漫",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "中华小当家",
         "title": "中华小当家",
         "uris": [
             "http://live.iill.top/huya.php?id=11342413"
         ]
     },
     {
-        "name": "音乐石榴",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视其他",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "音乐石榴",
         "title": "音乐石榴",
         "uris": [
             "http://live.iill.top/huya.php?id=17091681"
         ]
     },
     {
-        "name": "音乐速递",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视其他",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "音乐速递",
         "title": "音乐速递",
         "uris": [
             "http://live.iill.top/huya.php?id=19439762"
         ]
     },
     {
-        "name": "治愈放松",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视其他",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "治愈放松",
         "title": "治愈放松",
         "uris": [
             "http://live.iill.top/huya.php?id=21241811"
         ]
     },
     {
-        "name": "阅读学习",
-        "logo": "https://epg.iill.top/logo/虎牙.png",
         "group": "影视其他",
+        "logo": "https://epg.iill.top/logo/虎牙.png",
+        "name": "阅读学习",
         "title": "阅读学习",
         "uris": [
             "http://live.iill.top/huya.php?id=21241813"
