@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
+
 #EXTINF:0 tvg-name="MBC" tvg-logo="http://i.imgur.com/ByeeX5e.png" group-title="韩国" ,MBC,
  http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
 ,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w396428287.m3u8
@@ -8,8 +10,8 @@
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="韩国",KBS 2TV [Not 24/7]
 http://mytv.dothome.co.kr/ch/public/3.php
-
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
+#EXTINF:-1 tvg-id="가문의 영광 리튼즈" tvg-logo="https://shasha.hair/images/node/17/175175.webp?1718028703" group-title="한국영화",가문의 영광 리튼즈
+https://cdn.wlcdn99.com:777/805a4840/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="央视频道",CCTV2
