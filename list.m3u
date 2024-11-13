@@ -384,5 +384,6 @@ http://live.iill.top/huya.php?id=19439762
 http://live.iill.top/huya.php?id=21241811
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视其他",阅读学习
 http://live.iill.top/huya.php?id=21241813
-#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="锦绣安宁",001
+
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="锦绣安宁",锦绣安宁-01
 https://m3u8.hmrvideo.com/play/2ccdb5300fe1433487db00d112a6704d.m3u8
