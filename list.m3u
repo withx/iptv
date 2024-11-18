@@ -12,6 +12,20 @@ http://mytv.dothome.co.kr/ch/public/1.php
 http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="韩国",KBS Drama (480p)
 http://mytv.dothome.co.kr/ch/catv/2.php
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20231125-1/7ebfc0d6c53d1791e4144195b156ac6a.jpg" group-title="한국영화",모럴센스
+https://v10.bxgbnet.com/sdv10/202311/25/J3aL6wUUHe2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20231110-1/25e607c468a84e4c0bb96ca73844f133.jpg" group-title="한국영화",기생충
+https://v10.bxgbnet.com/sdv10/202311/10/1EUqZ7d0gk2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240823-1/04618fa7948bce72fbf3e5a03f919dca.jpg" group-title="한국영화",로마의 휴일
+https://v10.bxgbnet.com/sdv10/202408/23/VLgbHxJQEj15/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240822-1/f20e8cb6b150ced0aea1dd91837926d3.jpg" group-title="한국영화",미스터보스
+https://v5.bxgbnet.com/sdv5/202408/19/Xjy76URjjx7/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240816-1/9f5232516ba4dff0b883e9ab04c58de8.jpg" group-title="한국영화",핸섬가이즈
+https://v5.bxgbnet.com/sdv5/202408/16/jupmA1vmGt7/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241116-1/75cbc64cc9e41a3443dc685cea250488.jpg" group-title="한국영화",베테랑
+https://v6.bxgbnet.com/sdv6/202411/16/nLVpYnuTSg21/video/1000k_720/hls/index.m3u8
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="央视频道",CCTV2
@@ -464,14 +478,10 @@ https://v9.bxgbnet.com/sdv9/202408/23/BFk6Ut416m18/video/1000k_720/hls/index.m3u
 https://v1.bxgbnet.com/sdv1/202308/19/8dgvHtgBEg2/video/1000k_720/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/98dbfa0046e3ce8391a7aa68aff34b9d.jpg" group-title="哈利.波特",哈利·波特与死亡圣器(下)
 https://v11.bxgbnet.com/sdv11/202408/23/xbu8P1BGWT3/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230901-1/6bfa2ecd2e161fd89ebe31e7f8ee3d2f.jpg" group-title="哈利.波特",哈利·波特回到霍格沃茨
+https://v1.bxgbnet.com/sdv1/202308/19/DX6C8mmRWk2/video/1000k_720/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20231125-1/7ebfc0d6c53d1791e4144195b156ac6a.jpg" group-title="한국영화",모럴센스
-https://v10.bxgbnet.com/sdv10/202311/25/J3aL6wUUHe2/video/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20231110-1/25e607c468a84e4c0bb96ca73844f133.jpg" group-title="한국영화",기생충
-https://v10.bxgbnet.com/sdv10/202311/10/1EUqZ7d0gk2/video/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240823-1/04618fa7948bce72fbf3e5a03f919dca.jpg" group-title="한국영화",로마의 휴일
-https://v10.bxgbnet.com/sdv10/202408/23/VLgbHxJQEj15/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240822-1/f20e8cb6b150ced0aea1dd91837926d3.jpg" group-title="한국영화",미스터보스
-https://v5.bxgbnet.com/sdv5/202408/19/Xjy76URjjx7/video/1000k_720/hls/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240816-1/9f5232516ba4dff0b883e9ab04c58de8.jpg" group-title="한국영화",핸섬가이즈
-https://v5.bxgbnet.com/sdv5/202408/16/jupmA1vmGt7/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241116-1/678cbd0a90746d5a2a2c38eeb372f816.jpg" group-title="喜剧电影",脑洞大开
+https://v6.bxgbnet.com/sdv6/202411/16/qpthRdDWLX24/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241114-1/28a32687bbabd1e739f2d9b583911b38.jpg" group-title="喜剧电影",三个蠢贼
+https://v5.bxgbnet.com/sdv5/202411/14/qfwx12AN3H22/video/1000k_720/hls/index.m3u8
