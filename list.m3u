@@ -25,6 +25,14 @@ https://v5.bxgbnet.com/sdv5/202408/19/Xjy76URjjx7/video/1000k_720/hls/index.m3u8
 https://v5.bxgbnet.com/sdv5/202408/16/jupmA1vmGt7/video/1000k_720/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241116-1/75cbc64cc9e41a3443dc685cea250488.jpg" group-title="한국영화",베테랑
 https://v6.bxgbnet.com/sdv6/202411/16/nLVpYnuTSg21/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://m.ykimg.com/05840000668F807F13EB6616129BACD8?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="한국영화",빅매치
+https://v1.fentvoss.com/sdv1/202308/20/R2Lw1stECZ2/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.ykimg.com/058400005E76C555A9F97D0D32C8B927?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="한국영화",기술자들
+https://play.modujx15.com/20240826/O0s8FBc6/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://m.ykimg.com/05840000669F23FBC54DE9127D1AEDFC?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="한국영화",雅典娜.无间谍局
+https://vip.ffzy-play6.com/20221022/904_34d2f6be/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="https://m.ykimg.com/058400005E7699A4A9F97D0D32BA864B?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="한국영화",반창꼬
+https://play.modujx16.com/20241011/mZB6DpYt/2000kb/hls/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -485,3 +493,7 @@ https://v1.bxgbnet.com/sdv1/202308/19/DX6C8mmRWk2/video/1000k_720/hls/index.m3u8
 https://v6.bxgbnet.com/sdv6/202411/16/qpthRdDWLX24/video/1000k_720/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241114-1/28a32687bbabd1e739f2d9b583911b38.jpg" group-title="喜剧电影",三个蠢贼
 https://v5.bxgbnet.com/sdv5/202411/14/qfwx12AN3H22/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://m.ykimg.com/0584000066AB4BD07B50C01357FF8F38?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="喜剧电影",狄仁杰之天宫蜃楼
+https://play.modujx13.com/20240806/jEjUTTXm/1199kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://m.ykimg.com/0584000064705BA313EBC60BA0BB8BF1?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="喜剧电影",泰坦尼克号
+https://hn.bfvvs.com/play/0dN3n4Le/index.m3u8
