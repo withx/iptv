@@ -585,7 +585,7 @@ https://bfikuncdn.com/20221004/lNvcA7zP/2000kb/hls/index.m3u8
 https://122.228.8.29:4433/Cache/hls/1845e170270dab7f8a1736975c7cf857.m3u8?vkey=32313131565646554151494441465a5741317055556c4d49555151504277426441316743426c6b4944314a5742776456556c3048
 #EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380926.webp?1718003188" group-title="英文电影",小鬼当家-第7季
 https://122.228.8.29:4433/Cache/hls/1845e170270dab7f8a1736975c7cf857.m3u8?vkey=663837624246514a56414d495531554656514d4256513161564134425841594855464a5142414547566763435551384555413157
-#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380926.webp?1718003188" group-title="小鬼当家",第7季
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380926.webp?1718003188" group-title="英文电影",小鬼当家-第7季
 https://122.228.8.29:4433/Cache/hls/1845e170270dab7f8a1736975c7cf857.m3u8?vkey=37356531434141484241454a416764565656645455775a534156414343513562433159475577634142775a57426c494942414543
 #EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380926.webp?1718003188" group-title="英文电影",小鬼当家-第7季
 https://122.228.8.29:4433/Cache/hls/1845e170270dab7f8a1736975c7cf857.m3u8?vkey=63616633434156565577645455674d4156414e625767395855513157567755474441425755565a534231634b566c494941315256
@@ -605,3 +605,12 @@ https://bfikuncdn.com/20221004/Zg7kaaib/2000kb/hls/index.m3u8
 https://play.modujx16.com/20241008/mLZLL9si/2000kb/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://m.ykimg.com/0584000066F65219C7BFE91324BC6107?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="英文电影",头脑特工队2
 https://v9.bxgbnet.com/sdv9/202406/23/TWadNNwPfc18/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241122-1/b35acb10bf1311131b878209cce1f897.jpg" group-title="英文电影",魔咒奇缘2024
+https://v5.bxgbnet.com/sdv5/202411/22/HKMb2HQSER23/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240828-1/5a581f49761ba444abee32169eb91cb6.jpg" group-title="英文电影",钟楼怪人2：老实钟的秘密粤语
+https://v9.bxgbnet.com/sdv9/202408/23/LmzKT0PeUs18/video/1000k_720/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240904-1/79018f89c5fdb4e1777c1a0cd73f3c45.jpg" group-title="日文电影",名侦探柯南：百万美元的五棱星
+https://v12.bxgbnet.com/sdv12/202409/04/w4ZpfiaVaj8/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240813-1/11f7c3bbaba2b324f5242d22d1a58a73.jpg" group-title="日文电影",名侦探柯南：百万美元的五棱星
+https://v12.bxgbnet.com/sdv12/202408/13/XjfiwL9Hrq8/video/1000k_720/hls/index.m3u8
