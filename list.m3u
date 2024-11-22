@@ -2,16 +2,29 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
 
 #EXTINF:0 tvg-name="MBC" tvg-logo="http://i.imgur.com/ByeeX5e.png" group-title="韩国" ,MBC,
- http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
-,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w396428287.m3u8
-,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w854988460.m3u8
-,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
+#EXTINF:0 tvg-name="MBC" tvg-logo="http://i.imgur.com/ByeeX5e.png" group-title="韩国" ,MBC,
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:0 tvg-name="MBC" tvg-logo="http://i.imgur.com/ByeeX5e.png" group-title="韩国" ,MBC,
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w396428287.m3u8
+#EXTINF:0 tvg-name="MBC" tvg-logo="http://i.imgur.com/ByeeX5e.png" group-title="韩国" ,MBC,
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w854988460.m3u8
+#EXTINF:0 tvg-name="MBC" tvg-logo="http://i.imgur.com/ByeeX5e.png" group-title="韩国" ,MBC,
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国",KBS 1TV [Not 24/7]
 http://mytv.dothome.co.kr/ch/public/1.php
+
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="韩国",KBS 2TV [Not 24/7]
 http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="韩国",KBS Drama (480p)
 http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVO8oW_Ok0MI_3mC3tiBtUfXDhNv7JOi4Uw&s" group-title="한국영화",영화채널1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVO8oW_Ok0MI_3mC3tiBtUfXDhNv7JOi4Uw&s" group-title="한국영화",영화채널2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVO8oW_Ok0MI_3mC3tiBtUfXDhNv7JOi4Uw&s" group-title="한국영화",영화채널3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20231125-1/7ebfc0d6c53d1791e4144195b156ac6a.jpg" group-title="한국영화",모럴센스
 https://v10.bxgbnet.com/sdv10/202311/25/J3aL6wUUHe2/video/index.m3u8
@@ -474,43 +487,74 @@ https://v6.bxgbnet.com/sdv6/202411/18/xLXSvSUx0P22/video/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://shasha.hair/images/node/28/287401.webp?1718009188" group-title="哈利.波特",哈利·波特与魔法石
 https://yzzy.play-cdn2.com/20220428/16642_d23484e8/1000k/hls/index.m3u8
-,https://v3.dious.cc/20220401/oi9v1g4q/2000kb/hls/index.m3u8
-,https://m3u8.hmrvideo.com/play/29220a85afef4079aa918c5b71354aa3.m3u8
-,https://bfikuncdn.com/20220928/NTAlYfF4/2000kb/hls/index.m3u8
-,https://play.modujx14.com/20240812/VguaGQK1/1211kb/hls/index.m3u8
-,https://vip.ffzy-play6.com/20221126/8430_512a9273/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/28/287401.webp?1718009188" group-title="哈利.波特",哈利·波特与魔法石
+https://v3.dious.cc/20220401/oi9v1g4q/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/28/287401.webp?1718009188" group-title="哈利.波特",哈利·波特与魔法石
+https://m3u8.hmrvideo.com/play/29220a85afef4079aa918c5b71354aa3.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/28/287401.webp?1718009188" group-title="哈利.波特",哈利·波特与魔法石
+https://bfikuncdn.com/20220928/NTAlYfF4/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/28/287401.webp?1718009188" group-title="哈利.波特",哈利·波特与魔法石
+https://play.modujx14.com/20240812/VguaGQK1/1211kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/28/287401.webp?1718009188" group-title="哈利.波特",哈利·波特与魔法石
+https://vip.ffzy-play6.com/20221126/8430_512a9273/3000k/hls/mixed.m3u8
+
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f7483f2461f2a7d76b678015e6e3d868.jpg" group-title="哈利.波特",哈利·波特与密室
 https://v9.bxgbnet.com/sdv9/202408/23/x3wbDUq7gk18/video/1000k_720/hls/index.m3u8
-,https://yzzy.play-cdn2.com/20220429/16896_63ef383a/index.m3u8
-,https://m3u8.hmrvideo.com/play/7a8c02ad5f744bc0b48755c9c4efe34d.m3u8
-,https://vod6.bdzybf11.com/20240125/srvWvwgS/1500kb/hls/index.m3u8
-,https://bfikuncdn.com/20220928/8EgkCMH3/2000kb/hls/index.m3u8
-,https://v3.dious.cc/20220417/rB3XbLpP/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f7483f2461f2a7d76b678015e6e3d868.jpg" group-title="哈利.波特",哈利·波特与密室
+https://yzzy.play-cdn2.com/20220429/16896_63ef383a/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f7483f2461f2a7d76b678015e6e3d868.jpg" group-title="哈利.波特",哈利·波特与密室
+https://m3u8.hmrvideo.com/play/7a8c02ad5f744bc0b48755c9c4efe34d.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f7483f2461f2a7d76b678015e6e3d868.jpg" group-title="哈利.波特",哈利·波特与密室
+https://vod6.bdzybf11.com/20240125/srvWvwgS/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f7483f2461f2a7d76b678015e6e3d868.jpg" group-title="哈利.波特",哈利·波特与密室
+https://bfikuncdn.com/20220928/8EgkCMH3/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f7483f2461f2a7d76b678015e6e3d868.jpg" group-title="哈利.波特",哈利·波特与密室
+https://v3.dious.cc/20220417/rB3XbLpP/1500kb/hls/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230901-1/71b82cf16b720b4b8a842c0019db4491.jpg" group-title="哈利.波特",阿兹卡班的囚徒
 https://v1.bxgbnet.com/sdv1/202308/19/aY8M6XC7UU2/video/1000k_720/hls/index.m3u8
-,https://yzzy.play-cdn2.com/20220429/16900_3b8a98cf/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230901-1/71b82cf16b720b4b8a842c0019db4491.jpg" group-title="哈利.波特",阿兹卡班的囚徒
+https://yzzy.play-cdn2.com/20220429/16900_3b8a98cf/1000k/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="哈利.波特",哈利·波特与火焰杯
 https://v10.bxgbnet.com/sdv10/202408/23/KM1jBLD0Z815/video/1000k_720/hls/index.m3u8
-,https://yzzy.play-cdn2.com/20220429/16901_255d20fd/1000k/hls/index.m3u8
-,https://v3.dious.cc/20220417/KVtuxR9b/1500kb/hls/index.m3u8
-,https://vip.ffzy-play6.com/20221017/7_585834fc/3000k/hls/mixed.m3u8
-,https://vip.ffzy-play6.com/20221017/8_1d16ea01/3000k/hls/mixed.m3u8
-,https://v3.dious.cc/20220401/j26igDlr/2000kb/hls/index.m3u8
-,https://v10.qdhdcate.com/yyv10/202408/23/KM1jBLD0Z815/video/2000k_1080/hls/index.m3u8
-,https://vip.lzcdn2.com/20220320/141_eefbc158/1200k/hls/mixed.m3u8
-,https://c1.rrcdnbf1.com/video/haliboteyuhuoyanbei/HD%E4%B8%AD%E5%AD%97/index.m3u8
-,https://vip.lzcdn2.com/20220320/141_eefbc158/1200k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="哈利.波特",哈利·波特与火焰杯
+https://yzzy.play-cdn2.com/20220429/16901_255d20fd/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="哈利.波特",哈利·波特与火焰杯
+https://v3.dious.cc/20220417/KVtuxR9b/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="哈利.波特",哈利·波特与火焰杯
+https://vip.ffzy-play6.com/20221017/7_585834fc/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="哈利.波特",哈利·波特与火焰杯
+https://vip.ffzy-play6.com/20221017/8_1d16ea01/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="哈利.波特",哈利·波特与火焰杯
+https://v3.dious.cc/20220401/j26igDlr/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="哈利.波特",哈利·波特与火焰杯
+https://v10.qdhdcate.com/yyv10/202408/23/KM1jBLD0Z815/video/2000k_1080/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="哈利.波特",哈利·波特与火焰杯
+https://vip.lzcdn2.com/20220320/141_eefbc158/1200k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="哈利.波特",哈利·波特与火焰杯
+https://c1.rrcdnbf1.com/video/haliboteyuhuoyanbei/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="哈利.波特",哈利·波特与火焰杯
+https://vip.lzcdn2.com/20220320/141_eefbc158/1200k/hls/mixed.m3u8
+
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/d06aaa71d5e068a6226d78c43c3ec15c.jpg" group-title="哈利.波特",哈利·波特与凤凰社
 https://v9.bxgbnet.com/sdv9/202408/23/BFk6Ut416m18/video/1000k_720/hls/index.m3u8
-,https://yzzy.play-cdn2.com/20220501/17300_2593f824/1000k/hls/index.m3u8
-,https://v3.dious.cc/20220401/YoGbDocC/2000kb/hls/index.m3u8
-,https://m3u8.hmrvideo.com/play/6d663cd9ff00433a839261e02a7a6dd2.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/d06aaa71d5e068a6226d78c43c3ec15c.jpg" group-title="哈利.波特",哈利·波特与凤凰社
+https://yzzy.play-cdn2.com/20220501/17300_2593f824/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/d06aaa71d5e068a6226d78c43c3ec15c.jpg" group-title="哈利.波特",哈利·波特与凤凰社
+https://v3.dious.cc/20220401/YoGbDocC/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/d06aaa71d5e068a6226d78c43c3ec15c.jpg" group-title="哈利.波特",哈利·波特与凤凰社
+https://m3u8.hmrvideo.com/play/6d663cd9ff00433a839261e02a7a6dd2.m3u8
+
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/8be1755477e308b995b795476b18c180.jpg" group-title="哈利.波特",哈利·波特与混血王子
 https://v12.bxgbnet.com/sdv12/202408/23/ggHT1Qdte18/video/1000k_720/hls/index.m3u8
-,https://yzzy.play-cdn2.com/20220501/17299_750e0265/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/8be1755477e308b995b795476b18c180.jpg" group-title="哈利.波特",哈利·波特与混血王子
+https://yzzy.play-cdn2.com/20220501/17299_750e0265/1000k/hls/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/ad6a9dffd332cd6c20ff9f3ba819c231.jpg" group-title="哈利.波特",哈利·波特与死亡圣器(上)
 https://v1.bxgbnet.com/sdv1/202308/19/8dgvHtgBEg2/video/1000k_720/hls/index.m3u8
-,https://yzzy.play-cdn12.com/20221111/1696_18de950d/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/ad6a9dffd332cd6c20ff9f3ba819c231.jpg" group-title="哈利.波特",哈利·波特与死亡圣器(上)
+https://yzzy.play-cdn12.com/20221111/1696_18de950d/1000k/hls/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/98dbfa0046e3ce8391a7aa68aff34b9d.jpg" group-title="哈利.波特",哈利·波特与死亡圣器(下)
 https://v11.bxgbnet.com/sdv11/202408/23/xbu8P1BGWT3/video/1000k_720/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230901-1/6bfa2ecd2e161fd89ebe31e7f8ee3d2f.jpg" group-title="哈利.波特",哈利·波特回到霍格沃茨
