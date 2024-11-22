@@ -40,6 +40,8 @@ https://play.modujx15.com/20240826/O0s8FBc6/2000kb/hls/index.m3u8
 https://vip.ffzy-play6.com/20221022/904_34d2f6be/3000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-logo="https://m.ykimg.com/058400005E7699A4A9F97D0D32BA864B?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="한국영화",반창꼬
 https://play.modujx16.com/20241011/mZB6DpYt/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://m.ykimg.com/058400006323DDD413F7FF0999F2BA5E?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="한국영화",막걸스
+https://v1.fentvoss.com/sdv1/202308/20/N28t4QRXnH2/video/1000k_720/hls/index.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -588,3 +590,13 @@ https://122.228.8.29:4433/Cache/hls/1845e170270dab7f8a1736975c7cf857.m3u8?vkey=3
 https://122.228.8.29:4433/Cache/hls/1845e170270dab7f8a1736975c7cf857.m3u8?vkey=63616633434156565577645455674d4156414e625767395855513157567755474441425755565a534231634b566c494941315256
 #EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380926.webp?1718003188" group-title="小鬼当家",第7季
 https://122.228.8.29:4433/Cache/hls/1845e170270dab7f8a1736975c7cf857.m3u8?vkey=6536393542776c52415646524277674343565546444159475677685656514658563151464331634655565945553163484431514a
+
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380925.webp?1718003188" group-title="小鬼当家",第8季
+https://cdn.wlcdn99.com:777/ivumwtqR/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380925.webp?1718003188" group-title="小鬼当家",第8季
+https://bfikuncdn.com/20221004/OhATOKVe/2000kb/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380924.webp?1718003188" group-title="小鬼当家",第9季
+https://cdn.wlcdn99.com:777/T5tAHicV/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380924.webp?1718003188" group-title="小鬼当家",第9季
+https://bfikuncdn.com/20221004/Zg7kaaib/2000kb/hls/index.m3u8
