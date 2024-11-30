@@ -510,6 +510,23 @@ https://m3u8.hmrvideo.com/play/814c85a787534584bd66392c09a188b7.m3u8
 #EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
 https://m3u8.hmrvideo.com/play/0b8cb26d602e4f4eae1694048447b8c9.m3u8
 
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/YtU9PL7zLw3/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/mqZNQdHZAd3/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/UkTQfzZw3u3/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/jctix3Kchp3/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/T6B6GyqYWm3/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/eighW160jc3/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/dV1qgTPTpg3/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/bVBz5t9daT3/video/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241116-1/678cbd0a90746d5a2a2c38eeb372f816.jpg" group-title="喜剧电影",脑洞大开
 https://v6.bxgbnet.com/sdv6/202411/16/qpthRdDWLX24/video/1000k_720/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241114-1/28a32687bbabd1e739f2d9b583911b38.jpg" group-title="喜剧电影",三个蠢贼
@@ -639,6 +656,17 @@ https://v9.bxgbnet.com/sdv9/202406/23/TWadNNwPfc18/video/1000k_720/hls/index.m3u
 https://v5.bxgbnet.com/sdv5/202411/22/HKMb2HQSER23/video/1000k_720/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240828-1/5a581f49761ba444abee32169eb91cb6.jpg" group-title="英文电影",钟楼怪人2：老实钟的秘密粤语
 https://v9.bxgbnet.com/sdv9/202408/23/LmzKT0PeUs18/video/1000k_720/hls/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241130-1/5be02c147d1e1310c96de24f6c4e82fa.jpg" group-title="英文电影",胡桃夹子们
+https://v4.bxgbnet.com/sdv4/202411/30/98e6d1zNHZ21/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241124-1/caa1112d748daad19202318036409c69.jpg" group-title="英文电影",怒劫运钞车
+https://v6.bxgbnet.com/sdv6/202411/24/btnGetG2GR20/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240921-1/332132e9d0d6efe5865264be3ce9ec6e.jpg" group-title="英文电影",暗战缉杀
+https://v9.bxgbnet.com/sdv9/202409/21/aP5EkzaSCZ18/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240914-1/37611c71875b98e5514ea843d1ca4837.jpg" group-title="英文电影",猎犬行动
+https://v9.bxgbnet.com/sdv9/202409/14/75GudhvznV18/video/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240904-1/79018f89c5fdb4e1777c1a0cd73f3c45.jpg" group-title="日文电影",名侦探柯南：百万美元的五棱星
 https://v12.bxgbnet.com/sdv12/202409/04/w4ZpfiaVaj8/video/1000k_720/hls/index.m3u8
