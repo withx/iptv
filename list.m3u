@@ -11,15 +11,12 @@ http://123.254.72.24:1935/tvlive/livestream2/chunklist_w396428287.m3u8
 http://123.254.72.24:1935/tvlive/livestream2/chunklist_w854988460.m3u8
 #EXTINF:0 tvg-name="MBC" tvg-logo="http://i.imgur.com/ByeeX5e.png" group-title="韩国" ,MBC,
 http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
-
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国",KBS 1TV [Not 24/7]
 http://mytv.dothome.co.kr/ch/public/1.php
-
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="韩国",KBS 2TV [Not 24/7]
 http://mytv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="韩国",KBS Drama (480p)
 http://mytv.dothome.co.kr/ch/catv/2.php
-
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="央视频道",CCTV2
@@ -489,6 +486,29 @@ https://v3.bxgbnet.com/sdv3/202411/20/Q9B5cwyiuq22/video/index.m3u8
 https://v4.bxgbnet.com/sdv4/202411/20/fckTNsW3LC22/video/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
 https://v4.bxgbnet.com/sdv4/202411/21/uEd3ud6fUZ22/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/22/znKwz6ufRC24/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/22/D5g1tVetTg23/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/22/PiNkdpSrAJ20/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v3.bxgbnet.com/sdv3/202411/22/XVTUqSeRsg24/video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/2ccdb5300fe1433487db00d112a6704d.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/92d14a16d01d4fc8aeb2b10304461aec.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/1c1990495dd44fd5a8b52a64ffcfa23a.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/1bafcb1f599b4b70bfa48293405a6e32.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/f2b24dbdcdb14c4ebc609042470792ab.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/814c85a787534584bd66392c09a188b7.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/0b8cb26d602e4f4eae1694048447b8c9.m3u8
 
 #EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241116-1/678cbd0a90746d5a2a2c38eeb372f816.jpg" group-title="喜剧电影",脑洞大开
 https://v6.bxgbnet.com/sdv6/202411/16/qpthRdDWLX24/video/1000k_720/hls/index.m3u8
@@ -498,6 +518,8 @@ https://v5.bxgbnet.com/sdv5/202411/14/qfwx12AN3H22/video/1000k_720/hls/index.m3u
 https://play.modujx13.com/20240806/jEjUTTXm/1199kb/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://m.ykimg.com/0584000064705BA313EBC60BA0BB8BF1?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="喜剧电影",泰坦尼克号
 https://hn.bfvvs.com/play/0dN3n4Le/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241128-1/9c8a712ac90a5086fbbd6c02390dbf53.jpg" group-title="喜剧电影",雾都奇遇夜
+https://v3.bxgbnet.com/sdv3/202411/28/04piKqz04m19/video/1000k_720/hls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://shasha.hair/images/node/28/287401.webp?1718009188" group-title="英文电影",哈利·波特与魔法石
 https://yzzy.play-cdn2.com/20220428/16642_d23484e8/1000k/hls/index.m3u8
