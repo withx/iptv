@@ -1,0 +1,755 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
+
+#EXTINF:0 tvg-name="MBC" tvg-logo="http://i.imgur.com/ByeeX5e.png" group-title="韩国" ,MBC,
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
+#EXTINF:0 tvg-name="MBC" tvg-logo="http://i.imgur.com/ByeeX5e.png" group-title="韩国" ,MBC,
+https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#EXTINF:0 tvg-name="MBC" tvg-logo="http://i.imgur.com/ByeeX5e.png" group-title="韩国" ,MBC,
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w396428287.m3u8
+#EXTINF:0 tvg-name="MBC" tvg-logo="http://i.imgur.com/ByeeX5e.png" group-title="韩国" ,MBC,
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w854988460.m3u8
+#EXTINF:0 tvg-name="MBC" tvg-logo="http://i.imgur.com/ByeeX5e.png" group-title="韩国" ,MBC,
+http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国",KBS 1TV [Not 24/7]
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="韩国",KBS 2TV [Not 24/7]
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="韩国",KBS Drama (480p)
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="央视频道",CCTV1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="央视频道",CCTV2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="央视频道",CCTV3
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="央视频道",CCTV4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="央视频道",CCTV5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="央视频道",CCTV5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="央视频道",CCTV6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="央视频道",CCTV7
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="央视频道",CCTV8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="央视频道",CCTV9
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" group-title="央视频道",CCTV10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" group-title="央视频道",CCTV11
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="央视频道",CCTV12
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="央视频道",CCTV13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="央视频道",CCTV14
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="央视频道",CCTV15
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="央视频道",CCTV16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="央视频道",CCTV17
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20231125-1/7ebfc0d6c53d1791e4144195b156ac6a.jpg" group-title="한국영화",모럴센스
+https://v10.bxgbnet.com/sdv10/202311/25/J3aL6wUUHe2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20231110-1/25e607c468a84e4c0bb96ca73844f133.jpg" group-title="한국영화",기생충
+https://v10.bxgbnet.com/sdv10/202311/10/1EUqZ7d0gk2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240823-1/04618fa7948bce72fbf3e5a03f919dca.jpg" group-title="한국영화",로마의 휴일
+https://yzzy.play-cdn9.com/20221110/14948_ec6f673c/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240822-1/f20e8cb6b150ced0aea1dd91837926d3.jpg" group-title="한국영화",미스터보스
+https://v5.bxgbnet.com/sdv5/202408/19/Xjy76URjjx7/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240816-1/9f5232516ba4dff0b883e9ab04c58de8.jpg" group-title="한국영화",핸섬가이즈
+https://v5.bxgbnet.com/sdv5/202408/16/jupmA1vmGt7/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241116-1/75cbc64cc9e41a3443dc685cea250488.jpg" group-title="한국영화",베테랑
+https://v6.bxgbnet.com/sdv6/202411/16/nLVpYnuTSg21/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240207-1/22c4e28f578c88103d02c9c6a54b3ea0.jpg" group-title="한국영화",서울의 봄
+https://v11.bxgbnet.com/sdv11/202402/09/MPanB6RfRe3/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://m.ykimg.com/05840000668F807F13EB6616129BACD8?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="한국영화",빅매치
+https://v1.fentvoss.com/sdv1/202308/20/R2Lw1stECZ2/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://m.ykimg.com/058400005E76C555A9F97D0D32C8B927?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="한국영화",기술자들
+https://play.modujx15.com/20240826/O0s8FBc6/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://m.ykimg.com/05840000669F23FBC54DE9127D1AEDFC?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="한국영화",雅典娜.无间谍局
+https://vip.ffzy-play6.com/20221022/904_34d2f6be/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="https://m.ykimg.com/058400005E7699A4A9F97D0D32BA864B?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="한국영화",반창꼬
+https://play.modujx16.com/20241011/mZB6DpYt/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://m.ykimg.com/058400006323DDD413F7FF0999F2BA5E?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="한국영화",막걸스
+https://v1.fentvoss.com/sdv1/202308/20/N28t4QRXnH2/video/1000k_720/hls/index.m3u8
+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="卫视频道",东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="卫视频道",广东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.iill.top/logo/广西卫视.png" group-title="卫视频道",广西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="卫视频道",北京卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.iill.top/logo/东南卫视.png" group-title="卫视频道",东南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.iill.top/logo/四川卫视.png" group-title="卫视频道",四川卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.iill.top/logo/天津卫视.png" group-title="卫视频道",天津卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.iill.top/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="卫视频道",山东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.iill.top/logo/江西卫视.png" group-title="卫视频道",江西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.iill.top/logo/河北卫视.png" group-title="卫视频道",河北卫视IPV6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.iill.top/logo/河南卫视.png" group-title="卫视频道",河南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.iill.top/logo/海南卫视.png" group-title="卫视频道",海南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.iill.top/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.iill.top/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视IPV6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.iill.top/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.iill.top/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.iill.top/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV哒啵赛事.png" tvg-name="哒啵赛事" group-title="NewTV",NewTV 哒啵赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV黑莓动画.png" tvg-name="黑莓动画" group-title="NewTV",NewTV 黑莓动画
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV黑莓电影.png" tvg-name="黑莓电影" group-title="NewTV",NewTV 黑莓电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV超级电影.png" tvg-name="超级电影" group-title="NewTV",NewTV 超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV超级电视剧.png" tvg-name="超级电视剧" group-title="NewTV",NewTV 超级电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV超级体育.png" tvg-name="超级体育" group-title="NewTV",NewTV 超级体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV超级综艺.png" tvg-name="超级综艺" group-title="NewTV",NewTV 超级综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV金牌综艺.png" tvg-name="金牌综艺" group-title="NewTV",NewTV 金牌综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV东北热剧.png" tvg-name="东北热剧" group-title="NewTV",NewTV 东北热剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV古装剧场.png" tvg-name="古装剧场" group-title="NewTV",NewTV 古装剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV欢乐剧场.png" tvg-name="欢乐剧场" group-title="NewTV",NewTV 欢乐剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV怡伴健康.png" tvg-name="怡伴健康" group-title="NewTV",NewTV 怡伴健康
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV潮妈辣婆.png" tvg-name="潮妈辣婆" group-title="NewTV",NewTV 潮妈辣婆
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV军旅剧场.png" tvg-name="军旅剧场" group-title="NewTV",NewTV 军旅剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV军事评论.png" tvg-name="军事评论" group-title="NewTV",NewTV 军事评论
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV中国功夫.png" tvg-name="中国功夫" group-title="NewTV",NewTV 中国功夫
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV农业致富.png" tvg-name="农业致富" group-title="NewTV",NewTV 农业致富
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV动作电影.png" tvg-name="动作电影" group-title="NewTV",NewTV 动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV家庭剧场.png" tvg-name="家庭剧场" group-title="NewTV",NewTV 家庭剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV惊悚悬疑.png" tvg-name="惊悚悬疑" group-title="NewTV",NewTV 惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV武博世界.png" tvg-name="武博世界" group-title="NewTV",NewTV 武博世界
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV炫舞未来.png" tvg-name="炫舞未来" group-title="NewTV",NewTV 炫舞未来
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV爱情喜剧.png" tvg-name="爱情喜剧" group-title="NewTV",NewTV 爱情喜剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV精品萌宠.png" tvg-name="精品萌宠" group-title="NewTV",NewTV 精品萌宠
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV精品体育.png" tvg-name="精品体育" group-title="NewTV",NewTV 精品体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV精品大剧.png" tvg-name="精品大剧" group-title="NewTV",NewTV 精品大剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NewTV精品记录.png" tvg-name="精品记录" group-title="NewTV",NewTV 精品记录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕善跑.png" tvg-name="咪咕全民热练" group-title="体育频道",咪咕运动
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="体育频道",咪咕直播 𝟙
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="体育频道",咪咕直播 𝟚
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="体育频道",咪咕直播 𝟛
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="体育频道",咪咕直播 𝟜
+http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="体育频道",BesTV 𝟙
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="体育频道",BesTV 𝟚
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="体育频道",BesTV 𝟛
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="体育频道",BesTV 𝟜
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="体育频道",BesTV 𝟝
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="体育频道",BesTV 𝟞
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="体育频道",BesTV 𝟟
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="游戏赛事",B站CS 2
+http://live.iill.top/bilibili.php?id=21622811
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="游戏赛事",B站英雄联盟
+http://live.iill.top/bilibili.php?id=6
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙英雄联盟 𝟙
+http://live.iill.top/huya.php?id=660000
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙英雄联盟 𝟚
+http://live.iill.top/huya.php?id=660001
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼英雄联盟 𝟙
+http://live.iill.top/douyu.php?id=288016
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼英雄联盟 𝟚
+http://live.iill.top/douyu.php?id=424559
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="游戏赛事",B站英雄联盟手游
+http://live.iill.top/bilibili.php?id=23138275
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="游戏赛事",B站王者荣耀 𝟙
+http://live.iill.top/bilibili.php?id=55
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="游戏赛事",B站王者荣耀 𝟚
+http://live.iill.top/bilibili.php?id=21654762
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙王者荣耀 𝟙
+http://live.iill.top/huya.php?id=660002
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙王者荣耀 𝟚
+http://live.iill.top/huya.php?id=660164
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼王者荣耀 𝟙
+http://live.iill.top/douyu.php?id=1863767
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼王者荣耀 𝟚
+http://live.iill.top/douyu.php?id=1984839
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="游戏赛事",B站绝地求生
+http://live.iill.top/bilibili.php?id=98
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙绝地求生 𝟙
+http://live.iill.top/huya.php?id=660004
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙绝地求生 𝟚
+http://live.iill.top/huya.php?id=660005
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼绝地求生
+http://live.iill.top/douyu.php?id=100
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙和平精英
+http://live.iill.top/huya.php?id=660006
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼和平精英
+http://live.iill.top/douyu.php?id=999
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙金铲铲之战
+http://live.iill.top/huya.php?id=660579
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼金铲铲之战
+http://live.iill.top/douyu.php?id=9715241
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙DOTA2
+http://live.iill.top/huya.php?id=660118
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼DOTA2
+http://live.iill.top/douyu.php?id=3811559
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼云顶之弈
+http://live.iill.top/douyu.php?id=522423
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙永劫无间
+http://live.iill.top/huya.php?id=660115
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼永劫无间
+http://live.iill.top/huya.php?id=9662891
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="游戏赛事",B站使命召唤手游
+http://live.iill.top/bilibili.php?id=22741849
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙使命召唤手游
+http://live.iill.top/huya.php?id=11718629
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼使命召唤手游
+http://live.iill.top/douyu.php?id=9223245
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙穿越火线
+http://live.iill.top/huya.php?id=660101
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼穿越火线 𝟙
+http://live.iill.top/douyu.php?id=605964
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼穿越火线 𝟚
+http://live.iill.top/douyu.php?id=5388537
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙穿越火线手游
+http://live.iill.top/huya.php?id=660102
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="游戏赛事",B站第五人格
+http://live.iill.top/bilibili.php?id=5555
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙第五人格
+http://live.iill.top/huya.php?id=idvesports
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼第五人格 
+http://live.iill.top/douyu.php?id=3226194
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙逆战
+http://live.iill.top/huya.php?id=nsl2021
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="游戏赛事",B站无畏契约 
+http://live.iill.top/bilibili.php?id=22908869
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="游戏赛事",虎牙无畏契约 
+http://live.iill.top/huya.php?id=660679
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼无畏契约 
+http://live.iill.top/douyu.php?id=4585645
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼原神
+http://live.iill.top/douyu.php?id=10853239
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="游戏赛事",B站QQ飞车手游
+http://live.iill.top/bilibili.php?id=21743919
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼QQ飞车手游
+http://live.iill.top/douyu.php?id=5040227
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼梦幻西游·手游
+http://live.iill.top/huya.php?id=9163712
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼街霸
+http://live.iill.top/huya.php?id=11437
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="游戏赛事",B站JJ斗地主
+http://live.iill.top/bilibili.php?id=22021983
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼JJ斗地主
+http://live.iill.top/douyu.php?id=488743
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼我的世界
+http://live.iill.top/douyu.php?id=738878
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼FIFA
+http://live.iill.top/douyu.php?id=7692166
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼火影忍者
+http://live.iill.top/douyu.php?id=1997723
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼跑跑卡丁车
+http://live.iill.top/douyu.php?id=7722576
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="游戏赛事",斗鱼跑跑卡丁车手游
+http://live.iill.top/douyu.php?id=6672862
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟙
+http://live.iill.top/huya.php?id=23740156
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟚
+http://live.iill.top/huya.php?id=23749096
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟛
+http://live.iill.top/huya.php?id=23735126
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟜
+http://live.iill.top/huya.php?id=23903123
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟝
+http://live.iill.top/huya.php?id=23734169
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟞
+http://live.iill.top/huya.php?id=23863804
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟟
+http://live.iill.top/huya.php?id=23865080
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟠
+http://live.iill.top/huya.php?id=23864973
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟡
+http://live.iill.top/huya.php?id=23903130
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟙𝟘
+http://live.iill.top/huya.php?id=23860039
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟙𝟙
+http://live.iill.top/huya.php?id=23903183
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟙𝟚
+http://live.iill.top/huya.php?id=23903196
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟙𝟛
+http://live.iill.top/huya.php?id=23728674
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟙𝟜
+http://live.iill.top/huya.php?id=23865036
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟙𝟝
+http://live.iill.top/huya.php?id=23829543
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟙𝟞
+http://live.iill.top/huya.php?id=23865161
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟙𝟟
+http://live.iill.top/huya.php?id=23865058
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟙𝟠
+http://live.iill.top/huya.php?id=23824164
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟙𝟡
+http://live.iill.top/huya.php?id=23863796
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟚𝟘
+http://live.iill.top/huya.php?id=23734183
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟚𝟙
+http://live.iill.top/huya.php?id=23728660
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟚𝟚
+http://live.iill.top/huya.php?id=23865142
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟚𝟛
+http://live.iill.top/huya.php?id=23734246
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟚𝟜
+http://live.iill.top/huya.php?id=23865171
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟚𝟝
+http://live.iill.top/huya.php?id=23734256
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/埋堆堆.png" group-title="埋堆堆",埋堆堆 𝟚𝟞
+http://live.iill.top/huya.php?id=23749083
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视解说",电影1
+http://live.iill.top/huya.php?id=20289754
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视解说",电影2
+http://live.iill.top/huya.php?id=24983280
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视解说",电影3
+http://live.iill.top/huya.php?id=24396428
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视解说",电视剧1
+http://live.iill.top/huya.php?id=21277391
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视解说",电视剧2
+http://live.iill.top/huya.php?id=25018873
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视解说",动漫1
+http://live.iill.top/huya.php?id=19757963
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视解说",恐怖电影
+http://live.iill.top/huya.php?id=23419131
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视解说",漫威
+http://live.iill.top/huya.php?id=17089779
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视解说",美剧
+http://live.iill.top/huya.php?id=20488841
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视解说",七龙珠
+http://live.iill.top/huya.php?id=25650806
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视解说",止戈电影
+http://live.iill.top/huya.php?id=19863777
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视其他",挨饿德1
+http://live.iill.top/huya.php?id=20985858
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视其他",挨饿德2
+http://live.iill.top/huya.php?id=17693860
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视其他",互扇巴掌大赛
+http://live.iill.top/huya.php?id=20072873
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视其他",荒野求生
+http://live.iill.top/huya.php?id=593667
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视其他",野行者
+http://live.iill.top/huya.php?id=20072663
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视其他",跳舞
+http://live.iill.top/huya.php?id=24634408
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视动漫",茶啊二中
+http://live.iill.top/huya.php?id=11213191
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视动漫",哆啦A梦
+http://live.iill.top/huya.php?id=11601963
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视动漫",航海王
+http://live.iill.top/huya.php?id=16913382
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视动漫",七龙珠
+http://live.iill.top/huya.php?id=11601966
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视动漫",猫和老鼠
+http://live.iill.top/huya.php?id=11352879
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视动漫",中华小当家
+http://live.iill.top/huya.php?id=11342413
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视其他",音乐石榴
+http://live.iill.top/huya.php?id=17091681
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视其他",音乐速递
+http://live.iill.top/huya.php?id=19439762
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视其他",治愈放松
+http://live.iill.top/huya.php?id=21241811
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="影视其他",阅读学习
+http://live.iill.top/huya.php?id=21241813
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/01/ZPa5drbDkc23/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v4.bxgbnet.com/sdv4/202411/01/6ZBfcuXnMx19/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/01/Hy5ZfipNXu22/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v5.bxgbnet.com/sdv5/202411/01/YcUnbb8wKD20/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v2.bxgbnet.com/sdv2/202411/02/M9u5yXEP5j24/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v4.bxgbnet.com/sdv4/202411/02/f0FXELrWDY23/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/03/fgZdC9H1TS24/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v3.bxgbnet.com/sdv3/202411/03/3BpVK840JK22/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/04/p5uvdvGMyj21/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/04/qksXGLfXUy23/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/05/6AFeGWsKCU20/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v3.bxgbnet.com/sdv3/202411/05/E5M4Z5xDae23/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v3.bxgbnet.com/sdv3/202411/06/cGsn9VWakE21/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v4.bxgbnet.com/sdv4/202411/06/UMdrTFb9D621/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/07/AJeDQjCKuX19/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v3.bxgbnet.com/sdv3/202411/08/QhHzFteSQA20/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/08/b0KhxTn5rJ24/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/09/kFt86hX53G23/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v3.bxgbnet.com/sdv3/202411/10/BuSNky8z3F20/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/10/uMR1SQJZQN22/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v5.bxgbnet.com/sdv5/202411/11/WEQeTxHPw620/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v5.bxgbnet.com/sdv5/202411/12/k8Py6ZZ2xS21/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v4.bxgbnet.com/sdv4/202411/12/aeXm0gjGXu24/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v2.bxgbnet.com/sdv2/202411/13/FzrGzXNLgK23/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/14/Scz8wQizxc24/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/14/Mtd2b1P61P22/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/15/LWxjpe8CBw19/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v4.bxgbnet.com/sdv4/202411/16/5YJC9BHNhV22/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v3.bxgbnet.com/sdv3/202411/16/Q0ueciV4BQ19/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v5.bxgbnet.com/sdv5/202411/17/RPsX70N3N219/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v3.bxgbnet.com/sdv3/202411/18/DvhyCS890d22/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/18/xLXSvSUx0P22/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v5.bxgbnet.com/sdv5/202411/19/RyZEKu9W8021/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v3.bxgbnet.com/sdv3/202411/20/Q9B5cwyiuq22/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v4.bxgbnet.com/sdv4/202411/20/fckTNsW3LC22/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v4.bxgbnet.com/sdv4/202411/21/uEd3ud6fUZ22/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/22/znKwz6ufRC24/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/22/D5g1tVetTg23/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v6.bxgbnet.com/sdv6/202411/22/PiNkdpSrAJ20/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241113-1/69ce83ef2d5fadf0ff0914caec33242a.jpg" group-title="电视剧",珠帘玉幕
+https://v3.bxgbnet.com/sdv3/202411/22/XVTUqSeRsg24/video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/2ccdb5300fe1433487db00d112a6704d.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/92d14a16d01d4fc8aeb2b10304461aec.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/1c1990495dd44fd5a8b52a64ffcfa23a.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/1bafcb1f599b4b70bfa48293405a6e32.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/f2b24dbdcdb14c4ebc609042470792ab.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/814c85a787534584bd66392c09a188b7.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/45/458893.webp?1728583225" group-title="电视剧",锦绣安宁
+https://m3u8.hmrvideo.com/play/0b8cb26d602e4f4eae1694048447b8c9.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.longshengtea.com/yyv11/202403/21/YtU9PL7zLw3/video/2000k_1080/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/mqZNQdHZAd3/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/UkTQfzZw3u3/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/jctix3Kchp3/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/T6B6GyqYWm3/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/eighW160jc3/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/dV1qgTPTpg3/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240321-1/21af9edcc5c5c5e06e56673a4821e418.jpg" group-title="美剧联播",三体
+https://v11.bxgbnet.com/sdv11/202403/21/bVBz5t9daT3/video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/9jMm8HwC6L2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/K0hWpnUm8v2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/67ZQuQuxy22/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/AvFYuZ5J6p2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/7bCy9NE1T02/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/ZiABszQVVi2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/jTZa6KFcfF2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/Sz7gjnLbZ92/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/9JHfNbxV632/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/iiLYcg5cuK2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/9kKYu7FzWd2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/9mYvDdjDYx2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/uWFqy7LmdM2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/rfhjU9WUqW2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/jnJRLbW1er2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/BiW1ejDjju2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/0V2a25vs5Q2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/kbHFG9VU902/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/xMnH9CrLF62/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/fCXWdL8jfC2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/pNvK4dDMz82/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/svQwqyatau2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/gahNwFxVRT2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/ABcd1ZbtF52/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/BgTAuyighf2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/VbppKX1dA42/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/yVC5Vxwbau2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/b2PqY0QUtH2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/Lq28PrSWkZ2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230829-1/c88839a68ce267e552781312880a5c13.jpg" group-title="美剧联播",本尼迪特天才秘社第一季
+https://v2.bxgbnet.com/sdv2/202308/22/qBFYhhaQWb2/video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230830-1/c060d8705e8c24f846052e77c0591218.jpg" group-title="美剧联播",本尼迪特天才秘社第二季
+https://v2.bxgbnet.com/sdv2/202308/22/7c3sJUCuYp2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230830-1/c060d8705e8c24f846052e77c0591218.jpg" group-title="美剧联播",本尼迪特天才秘社第二季
+https://v2.bxgbnet.com/sdv2/202308/22/29WFpFdcU52/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230830-1/c060d8705e8c24f846052e77c0591218.jpg" group-title="美剧联播",本尼迪特天才秘社第二季
+https://v2.bxgbnet.com/sdv2/202308/22/Tq9LQwSEfV2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230830-1/c060d8705e8c24f846052e77c0591218.jpg" group-title="美剧联播",本尼迪特天才秘社第二季
+https://v2.bxgbnet.com/sdv2/202308/22/KKht562BJU2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230830-1/c060d8705e8c24f846052e77c0591218.jpg" group-title="美剧联播",本尼迪特天才秘社第二季
+https://v2.bxgbnet.com/sdv2/202308/22/SHy2iJSjth2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230830-1/c060d8705e8c24f846052e77c0591218.jpg" group-title="美剧联播",本尼迪特天才秘社第二季
+https://v2.bxgbnet.com/sdv2/202308/22/ycu636VBNQ2/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230830-1/c060d8705e8c24f846052e77c0591218.jpg" group-title="美剧联播",本尼迪特天才秘社第二季
+https://v2.bxgbnet.com/sdv2/202308/22/uxWkTYRLn82/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230830-1/c060d8705e8c24f846052e77c0591218.jpg" group-title="美剧联播",本尼迪特天才秘社第二季
+https://v2.bxgbnet.com/sdv2/202308/22/0g5w3nw74M2/video/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241116-1/678cbd0a90746d5a2a2c38eeb372f816.jpg" group-title="喜剧电影",脑洞大开
+https://v6.bxgbnet.com/sdv6/202411/16/qpthRdDWLX24/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241114-1/28a32687bbabd1e739f2d9b583911b38.jpg" group-title="喜剧电影",三个蠢贼
+https://v5.bxgbnet.com/sdv5/202411/14/qfwx12AN3H22/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://m.ykimg.com/0584000066AB4BD07B50C01357FF8F38?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="喜剧电影",狄仁杰之天宫蜃楼
+https://play.modujx13.com/20240806/jEjUTTXm/1199kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://m.ykimg.com/0584000064705BA313EBC60BA0BB8BF1?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="喜剧电影",泰坦尼克号
+https://hn.bfvvs.com/play/0dN3n4Le/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241128-1/9c8a712ac90a5086fbbd6c02390dbf53.jpg" group-title="喜剧电影",雾都奇遇夜
+https://v3.bxgbnet.com/sdv3/202411/28/04piKqz04m19/video/1000k_720/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/28/287401.webp?1718009188" group-title="英文电影",哈利·波特与魔法石
+https://yzzy.play-cdn2.com/20220428/16642_d23484e8/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/28/287401.webp?1718009188" group-title="英文电影",哈利·波特与魔法石
+https://v3.dious.cc/20220401/oi9v1g4q/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/28/287401.webp?1718009188" group-title="英文电影",哈利·波特与魔法石
+https://m3u8.hmrvideo.com/play/29220a85afef4079aa918c5b71354aa3.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/28/287401.webp?1718009188" group-title="英文电影",哈利·波特与魔法石
+https://bfikuncdn.com/20220928/NTAlYfF4/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/28/287401.webp?1718009188" group-title="英文电影",哈利·波特与魔法石
+https://play.modujx14.com/20240812/VguaGQK1/1211kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/28/287401.webp?1718009188" group-title="英文电影",哈利·波特与魔法石
+https://vip.ffzy-play6.com/20221126/8430_512a9273/3000k/hls/mixed.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f7483f2461f2a7d76b678015e6e3d868.jpg" group-title="英文电影",哈利·波特与密室
+https://v9.bxgbnet.com/sdv9/202408/23/x3wbDUq7gk18/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f7483f2461f2a7d76b678015e6e3d868.jpg" group-title="英文电影",哈利·波特与密室
+https://yzzy.play-cdn2.com/20220429/16896_63ef383a/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f7483f2461f2a7d76b678015e6e3d868.jpg" group-title="英文电影",哈利·波特与密室
+https://m3u8.hmrvideo.com/play/7a8c02ad5f744bc0b48755c9c4efe34d.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f7483f2461f2a7d76b678015e6e3d868.jpg" group-title="英文电影",哈利·波特与密室
+https://vod6.bdzybf11.com/20240125/srvWvwgS/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f7483f2461f2a7d76b678015e6e3d868.jpg" group-title="英文电影",哈利·波特与密室
+https://bfikuncdn.com/20220928/8EgkCMH3/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f7483f2461f2a7d76b678015e6e3d868.jpg" group-title="英文电影",哈利·波特与密室
+https://v3.dious.cc/20220417/rB3XbLpP/1500kb/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230901-1/71b82cf16b720b4b8a842c0019db4491.jpg" group-title="英文电影",阿兹卡班的囚徒
+https://v1.bxgbnet.com/sdv1/202308/19/aY8M6XC7UU2/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230901-1/71b82cf16b720b4b8a842c0019db4491.jpg" group-title="英文电影",阿兹卡班的囚徒
+https://yzzy.play-cdn2.com/20220429/16900_3b8a98cf/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="英文电影",哈利·波特与火焰杯
+https://v10.bxgbnet.com/sdv10/202408/23/KM1jBLD0Z815/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="英文电影",哈利·波特与火焰杯
+https://yzzy.play-cdn2.com/20220429/16901_255d20fd/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="英文电影",哈利·波特与火焰杯
+https://v3.dious.cc/20220417/KVtuxR9b/1500kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="英文电影",哈利·波特与火焰杯
+https://vip.ffzy-play6.com/20221017/7_585834fc/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="英文电影",哈利·波特与火焰杯
+https://vip.ffzy-play6.com/20221017/8_1d16ea01/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="英文电影",哈利·波特与火焰杯
+https://v3.dious.cc/20220401/j26igDlr/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="英文电影",哈利·波特与火焰杯
+https://v10.qdhdcate.com/yyv10/202408/23/KM1jBLD0Z815/video/2000k_1080/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="英文电影",哈利·波特与火焰杯
+https://vip.lzcdn2.com/20220320/141_eefbc158/1200k/hls/mixed.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="英文电影",哈利·波特与火焰杯
+https://c1.rrcdnbf1.com/video/haliboteyuhuoyanbei/HD%E4%B8%AD%E5%AD%97/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/f450e866454e8ac1232f82436e9619ad.jpg" group-title="英文电影",哈利·波特与火焰杯
+https://vip.lzcdn2.com/20220320/141_eefbc158/1200k/hls/mixed.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/d06aaa71d5e068a6226d78c43c3ec15c.jpg" group-title="英文电影",哈利·波特与凤凰社
+https://v9.bxgbnet.com/sdv9/202408/23/BFk6Ut416m18/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/d06aaa71d5e068a6226d78c43c3ec15c.jpg" group-title="英文电影",哈利·波特与凤凰社
+https://yzzy.play-cdn2.com/20220501/17300_2593f824/1000k/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/d06aaa71d5e068a6226d78c43c3ec15c.jpg" group-title="英文电影",哈利·波特与凤凰社
+https://v3.dious.cc/20220401/YoGbDocC/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/d06aaa71d5e068a6226d78c43c3ec15c.jpg" group-title="英文电影",哈利·波特与凤凰社
+https://m3u8.hmrvideo.com/play/6d663cd9ff00433a839261e02a7a6dd2.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/8be1755477e308b995b795476b18c180.jpg" group-title="英文电影",哈利·波特与混血王子
+https://v12.bxgbnet.com/sdv12/202408/23/ggHT1Qdte18/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240826-1/8be1755477e308b995b795476b18c180.jpg" group-title="英文电影",哈利·波特与混血王子
+https://yzzy.play-cdn2.com/20220501/17299_750e0265/1000k/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/ad6a9dffd332cd6c20ff9f3ba819c231.jpg" group-title="英文电影",哈利·波特与死亡圣器(上)
+https://v1.bxgbnet.com/sdv1/202308/19/8dgvHtgBEg2/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/ad6a9dffd332cd6c20ff9f3ba819c231.jpg" group-title="英文电影",哈利·波特与死亡圣器(上)
+https://yzzy.play-cdn12.com/20221111/1696_18de950d/1000k/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240824-1/98dbfa0046e3ce8391a7aa68aff34b9d.jpg" group-title="英文电影",哈利·波特与死亡圣器(下)
+https://v11.bxgbnet.com/sdv11/202408/23/xbu8P1BGWT3/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20230901-1/6bfa2ecd2e161fd89ebe31e7f8ee3d2f.jpg" group-title="英文电影",哈利·波特回到霍格沃茨
+https://v1.bxgbnet.com/sdv1/202308/19/DX6C8mmRWk2/video/1000k_720/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/15/151256.webp?1718030108" group-title="英文电影",小鬼当家-第五季
+https://m3u8.hmrvideo.com/play/2fba3d268c48402096c494175ecba3ff.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/15/151256.webp?1718030108" group-title="英文电影",小鬼当家-第五季
+https://v3.dious.cc/20220330/utCUCP4e/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/15/151256.webp?1718030108" group-title="英文电影",小鬼当家-第五季
+https://cdn.wlcdn99.com:777/20220504/l90szXTc/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/15/151256.webp?1718030108" group-title="英文电影",小鬼当家-第五季
+https://v1.fentvoss.com/sdv1/202406/10/u9fvP02ZC41/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/15/151256.webp?1718030108" group-title="英文电影",小鬼当家-第五季
+https://v.gsuus.com/play/oeEjNva0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380926.webp?1718003188" group-title="英文电影",小鬼当家-第7季
+https://cdn.wlcdn99.com:777/zilJAK0S/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380926.webp?1718003188" group-title="英文电影",小鬼当家-第7季
+https://bfikuncdn.com/20221004/lNvcA7zP/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380926.webp?1718003188" group-title="英文电影",小鬼当家-第7季
+https://122.228.8.29:4433/Cache/hls/1845e170270dab7f8a1736975c7cf857.m3u8?vkey=32313131565646554151494441465a5741317055556c4d49555151504277426441316743426c6b4944314a5742776456556c3048
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380926.webp?1718003188" group-title="英文电影",小鬼当家-第7季
+https://122.228.8.29:4433/Cache/hls/1845e170270dab7f8a1736975c7cf857.m3u8?vkey=663837624246514a56414d495531554656514d4256513161564134425841594855464a5142414547566763435551384555413157
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380926.webp?1718003188" group-title="英文电影",小鬼当家-第7季
+https://122.228.8.29:4433/Cache/hls/1845e170270dab7f8a1736975c7cf857.m3u8?vkey=37356531434141484241454a416764565656645455775a534156414343513562433159475577634142775a57426c494942414543
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380926.webp?1718003188" group-title="英文电影",小鬼当家-第7季
+https://122.228.8.29:4433/Cache/hls/1845e170270dab7f8a1736975c7cf857.m3u8?vkey=63616633434156565577645455674d4156414e625767395855513157567755474441425755565a534231634b566c494941315256
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380926.webp?1718003188" group-title="英文电影",小鬼当家-第7季
+https://122.228.8.29:4433/Cache/hls/1845e170270dab7f8a1736975c7cf857.m3u8?vkey=6536393542776c52415646524277674343565546444159475677685656514658563151464331634655565945553163484431514a
+
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380925.webp?1718003188" group-title="英文电影",小鬼当家-第8季
+https://cdn.wlcdn99.com:777/ivumwtqR/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380925.webp?1718003188" group-title="英文电影",小鬼当家-第8季
+https://bfikuncdn.com/20221004/OhATOKVe/2000kb/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380924.webp?1718003188" group-title="英文电影",小鬼当家-第9季
+https://cdn.wlcdn99.com:777/T5tAHicV/index.m3u8
+#EXTINF:-1 tvg-logo="https://shasha.hair/images/node/38/380924.webp?1718003188" group-title="英文电影",小鬼当家-第9季
+https://bfikuncdn.com/20221004/Zg7kaaib/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://m.ykimg.com/058400005F92831C14187C07BCD7C4B4?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="英文电影",多力特的奇幻冒险
+https://play.modujx16.com/20241008/mLZLL9si/2000kb/hls/index.m3u8
+#EXTINF:-1 tvg-logo="http://m.ykimg.com/0584000066F65219C7BFE91324BC6107?x-oss-process=image/resize,w_315/interlace,1/quality,Q_80" group-title="英文电影",头脑特工队2
+https://v9.bxgbnet.com/sdv9/202406/23/TWadNNwPfc18/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241122-1/b35acb10bf1311131b878209cce1f897.jpg" group-title="英文电影",魔咒奇缘2024
+https://v5.bxgbnet.com/sdv5/202411/22/HKMb2HQSER23/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240828-1/5a581f49761ba444abee32169eb91cb6.jpg" group-title="英文电影",钟楼怪人2：老实钟的秘密粤语
+https://v9.bxgbnet.com/sdv9/202408/23/LmzKT0PeUs18/video/1000k_720/hls/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241130-1/5be02c147d1e1310c96de24f6c4e82fa.jpg" group-title="英文电影",胡桃夹子们
+https://v4.bxgbnet.com/sdv4/202411/30/98e6d1zNHZ21/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20241124-1/caa1112d748daad19202318036409c69.jpg" group-title="英文电影",怒劫运钞车
+https://v6.bxgbnet.com/sdv6/202411/24/btnGetG2GR20/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240921-1/332132e9d0d6efe5865264be3ce9ec6e.jpg" group-title="英文电影",暗战缉杀
+https://v9.bxgbnet.com/sdv9/202409/21/aP5EkzaSCZ18/video/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240914-1/37611c71875b98e5514ea843d1ca4837.jpg" group-title="英文电影",猎犬行动
+https://v9.bxgbnet.com/sdv9/202409/14/75GudhvznV18/video/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240904-1/79018f89c5fdb4e1777c1a0cd73f3c45.jpg" group-title="日文电影",名侦探柯南：百万美元的五棱星
+https://v12.bxgbnet.com/sdv12/202409/04/w4ZpfiaVaj8/video/1000k_720/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.okzy.xyz/upload/vod/20240813-1/11f7c3bbaba2b324f5242d22d1a58a73.jpg" group-title="日文电影",名侦探柯南：百万美元的五棱星
+https://v12.bxgbnet.com/sdv12/202408/13/XjfiwL9Hrq8/video/1000k_720/hls/index.m3u8
