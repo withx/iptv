@@ -1,19 +1,19 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 tvg-id="KBS1TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/11.svg" group-title="韩国",KBS 1TV
+#EXTINF:-1 tvg-id="KBS1TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/11.png" group-title="韩国",KBS 1TV
 http://youtv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 tvg-id="KBS2TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/12.svg" group-title="韩国",KBS 2TV
+#EXTINF:-1 tvg-id="KBS2TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/12.png" group-title="韩国",KBS 2TV
 http://youtv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="KBSDrama" tvg-logo="https://res.static.kbs.co.kr/img/ch/N91__white-color.svg" group-title="韩国",KBS Drama
+#EXTINF:-1 tvg-id="KBSDrama" tvg-logo="https://res.static.kbs.co.kr/img/ch/N91__white-color.png" group-title="韩国",KBS Drama
 http://youtv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 tvg-id="KBSLife" tvg-logo="https://res.static.kbs.co.kr/img/ch/N93__white-color.svg" group-title="韩国",KBS Life
+#EXTINF:-1 tvg-id="KBSLife" tvg-logo="https://res.static.kbs.co.kr/img/ch/N93__white-color.png" group-title="韩国",KBS Life
 http://youtv.dothome.co.kr/ch/catv/5.php
-EXTINF:-1 tvg-id="KBSStory" tvg-logo="https://res.static.kbs.co.kr/img/ch/N94__white-color.svg" group-title="韩国",KBS Story
+EXTINF:-1 tvg-id="KBSStory" tvg-logo="https://res.static.kbs.co.kr/img/ch/N94__white-color.png" group-title="韩国",KBS Story
 http://youtv.dothome.co.kr/ch/catv/4.php
 EXTINF:-1 tvg-id="KBSStory" tvg-logo="https://news.kbs.co.kr/news/kbs24_thumb.jpg" group-title="韩国",KBS 24
 http://youtv.dothome.co.kr/ch/catv/1.php
-#EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://res.static.kbs.co.kr/img/ch/14.svg" group-title="韩国",KBS World
+#EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://res.static.kbs.co.kr/img/ch/14.png" group-title="韩国",KBS World
 http://youtv.dothome.co.kr/ch/catv/7.php
 
 #EXTINF:-1 tvg-id="MBC1" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 대전
@@ -787,3 +787,4 @@ https://v6.bxgbnet.com/sdv6/202501/17/kwasjF58Nq20/video/1000k_720/hls/index.m3u
 https://m3u8.hmrvideo.com/play/3ad644dc36274a1f86ec4fed5428de69.m3u8
 #EXTINF:-1 tvg-logo="https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/02/12/31481893.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&q=75" group-title="英文电影",哪吒之魔童闹海
 https://m3u.nikanba.live/share/784713028fd2709fcb98e4d46f78cb2c.m3u8
+
