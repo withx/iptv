@@ -2,50 +2,51 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
 
 #EXTINF:-1 tvg-id="KBS1TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/11.svg" group-title="韩国",KBS 1TV
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQ1NzY1NjZ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=J9PHXc0~b5PfarX9qOIMLzG9rP0-aqsbRXpMZCDZT6EHX~Q2U~9O-fLk-YSL8Zp3r1vytZNzwAHXE0WBolGQV6VsgpQ4mmiXaBEIYoTJmtbXRv2pufiRkSynuaB7KRULvr4gcItAG4irfvnHrHVuk1ccPWoDoRkMOyu-PTdoB5FjpB0z76Ez0c-THzz~HTzMWng7ApYJk6GTpBmxmES-FtPAjjJK2bvQxeHpgoBI~s1HLZoSQH9l1bcw1AyCBfx-JvrEht99u3FDd5vhen9nQ~yZgdzKVWHgPVKHYOmJau3~Ub7Pw9vwTdZILg~~G16qPCopne8F6OR0Mp8gI288Jw__
+http://youtv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS2TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/12.svg" group-title="韩国",KBS 2TV
-https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NjQ1NzY1Mzd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=RoBIbtaR0aIzisQ4taGjsnC40b4ia0Mjj-FMux-WXAKs1Eba5r6rDB83yUlXQhLwdsQhPPEXq4sVVG9cswiuvWS8EdsuZJ2aN70YVikqpQl5Egh1bAvUd9-J0Ff4InQO7SGTSi0powIOuRInXZ0hCss8nxrEseXO59MokD3uXfrSW~4LoHZAzxcmhdCNT8IHkRqGXgLlHJscfeBzZpca-qk-w3Df0peJr0h9x4mfd2ctCjSs7D9LQRl~hykVLNj0LJIG75NC5g8pYacZR8ibKNhY1YTZeJrEXwoMnpx~X6LqVqQrehiDs~REWkITivtHmeCQlw8kBFq4eJhgpmnsNQ__
+http://youtv.dothome.co.kr/ch/public/3.php
 #EXTINF:-1 tvg-id="KBSDrama" tvg-logo="https://res.static.kbs.co.kr/img/ch/N91__white-color.svg" group-title="韩国",KBS Drama
-https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzY0NTc2NTg4fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=X68BdowdHQoPhnVbf-I59YK7xLLY7zGHGo3sLYsz-nnjn-lSjwFFsEEV8qMbPYcuHTKgzqwJTYkv-rpllw2pQFMn0kNoXnbxMmJNgYlSgfGWd9XxFK8QEZEAA8dDA8U86Re7qMDAySFmozsBTvO3QADkOoHWBgrbqexrMFxIlXwolcwGQDlmpJwWqp4qe2oKLrQcMsNT93YgDrHibGwMe7TbE5Lv6nxUyPJ~xMH~Ep11vcOU9TJc93-SshNiQsyg8i0s3wvOzbZ9t4~T0756AoKDm~PzbpvoGTfT19q7wOOEf2Y0YQswkgUs~8p~Bu4dtpDEsnFYZbwG1HwcbkwG0g__
+http://youtv.dothome.co.kr/ch/catv/2.php
 #EXTINF:-1 tvg-id="KBSLife" tvg-logo="https://res.static.kbs.co.kr/img/ch/N93__white-color.svg" group-title="韩国",KBS Life
-https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2NDU3NjYwNH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=QyZxnSpWoBUdFYwiYJBkC4rAgKPiMzLDdDfmFaluNdERvFQLT-3ggfMnynAAk~F6D6uf99aoP4SlQKwUdd75PFMNEKcX8a-Wz0kac9aaykD5Y00fLarwhh8NumaDt68W7s66cerThu~d0RZD0AghU2H~mfiGUf2N5AX11A0cDrZe4DDfjERUiIDN6hJ4Isyc3VhuuKGjGyDoUytH4l3aQpvHP26e7d7FspDBn7ww~O70J70Mdot~VnhCJfjjdJRzqq3WwfM3Hw2nGHZs~tDRirZtsZY~G2XCro90ik9qT4wGM3GkMWRxfyde914Faq6T3KsUdPEaLe0cTLEUtVVRYA__
-#EXTINF:-1 tvg-id="KBSStory" tvg-logo="https://res.static.kbs.co.kr/img/ch/N94__white-color.svg" group-title="韩国",KBS Story
-https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2NDU3NjY2NH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=WFZpNZ1ZozmUs4lhASCTIzrWyqgXynqFOV~O~kB9gJ1r4xhOEpsilonIdTLwjqgIwcc64agOWLuxFD4--LCbdq-eMujBJX-eFyPhHNrufCg9lTY8Idrd~N0Jt9XZih~arRfon3eMF4D6TYhKJneI5KeqIVnDR1eHlu0bZWxdWjMb4xis8iN00IcRaU4uFBwvp3exCfxyooqpO8NpgK21uVoSMimM42GxmKce3TTQKTptMyE3IYZd6hmntooMVvcOTd7ZqV0rufQ-5kzeYJMaKNgl5GjMHE4EkXV1hey9SA7mryWSxo5-XnHhSP~~3eSoWBBDP6of32QMi973DlBBNg__
+http://youtv.dothome.co.kr/ch/catv/5.php
+EXTINF:-1 tvg-id="KBSStory" tvg-logo="https://res.static.kbs.co.kr/img/ch/N94__white-color.svg" group-title="韩国",KBS Story
+http://youtv.dothome.co.kr/ch/catv/4.php
+EXTINF:-1 tvg-id="KBSStory" tvg-logo="https://news.kbs.co.kr/news/kbs24_thumb.jpg" group-title="韩国",KBS 24
+http://youtv.dothome.co.kr/ch/catv/1.php
 #EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://res.static.kbs.co.kr/img/ch/14.svg" group-title="韩国",KBS World
-https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2NDU3NjcwOH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=VnvM9vEd3UMpbiE44o6~Yp3jq~wKpSlWB7MfbpD1dB8uSKiyIFvwEUVSysCGQCkAw~4dRBWJ2cXUCPPIIW5WXx0Zp1PHt4CYtu~cvJgxaAYonzJL0EHO4aE7EBKcdiLIweDGKuNiTFBFhmhaSTh9QfowdUmUOE9KhWcQaNW0NEHiKEvbGNBht4kp1P9bXgSYVNUqF1xNvt9wL4A1P3L7NADoHRZ3Fi6MoFscwS3ihlTW6mTao5-KBaUhs1rthRLBX6PwDn2k5RhxAFVizkOr2TRgiQf-yxNguQ9k~0nkM700qQ27aUPGmEGo~mw-oNX6K8QQdgZF8fX9doHgca3Psg__
+http://youtv.dothome.co.kr/ch/catv/7.php
 
 #EXTINF:-1 tvg-id="MBC1" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 대전
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS1" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 전주
+http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC2" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 대구
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS2" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 강원
+http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
 #EXTINF:-1 tvg-id="MBC3" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 광주
 https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS3" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 울산
+https://stream.ubc.co.kr/hls/ubctvstream/1_2/index.m3u8
 #EXTINF:-1 tvg-id="MBC4" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 전주
 https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS4" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 경주
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC5" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 강원
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS5" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 대구
+http://203.251.91.227:9999/hls/otv-eorn-xlqltl-dbekftks-ext-002-334/index.m3u8
 #EXTINF:-1 tvg-id="MBC6" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 목포
 https://vod.mpmbc.co.kr/a_live/25246741/ch001/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS6" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 부산
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 tvg-id="MBC7" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 춘천
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS6" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 제주
+http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id="MBC8" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 경남
 https://wowza.mbcgn.kr/MBCTV/TV1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SBS1" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",SBS 전주
-http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS2" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",SBS 강원
-http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
-#EXTINF:-1 tvg-id="SBS3" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",SBS 울산
-https://stream.ubc.co.kr/hls/ubctvstream/1_2/index.m3u8
-#EXTINF:-1 tvg-id="SBS4" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",SBS 경주
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBS5" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",SBS 대구
-http://203.251.91.227:9999/hls/otv-eorn-xlqltl-dbekftks-ext-002-334/index.m3u8
-#EXTINF:-1 tvg-id="SBS6" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",SBS 부산
-https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 tvg-id="SBS6" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",SBS 제주
-http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="SBS6" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",SBS 광주
+#EXTINF:-1 tvg-id="SBS6" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 광주
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="央视频道",CCTV1
