@@ -20,34 +20,35 @@ http://youtv.dothome.co.kr/ch/catv/7.php
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS1" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 전주
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC2" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 대구
-https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS2" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 강원
 http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
-#EXTINF:-1 tvg-id="MBC3" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 광주
-https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS3" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 울산
 https://stream.ubc.co.kr/hls/ubctvstream/1_2/index.m3u8
-#EXTINF:-1 tvg-id="MBC4" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 전주
-https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS4" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 경주
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC5" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 강원
-http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS5" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 대구
 http://203.251.91.227:9999/hls/otv-eorn-xlqltl-dbekftks-ext-002-334/index.m3u8
-#EXTINF:-1 tvg-id="MBC6" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 목포
-https://vod.mpmbc.co.kr/a_live/25246741/ch001/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS6" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 부산
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 tvg-id="MBC7" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 춘천
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS6" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 제주
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-1 tvg-id="MBC8" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 경남
-https://wowza.mbcgn.kr/MBCTV/TV1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS6" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="韩国",SBS 광주
 https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MBC2" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 대구
+https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC3" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 광주
+https://media.kjmbc.co.kr/hls/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC4" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 전주
+https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC5" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 강원
+http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC6" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 목포
+https://vod.mpmbc.co.kr/a_live/25246741/ch001/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC7" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 춘천
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC8" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 경남
+https://wowza.mbcgn.kr/MBCTV/TV1.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="央视频道",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -787,5 +788,6 @@ https://v6.bxgbnet.com/sdv6/202501/17/kwasjF58Nq20/video/1000k_720/hls/index.m3u
 https://m3u8.hmrvideo.com/play/3ad644dc36274a1f86ec4fed5428de69.m3u8
 #EXTINF:-1 tvg-logo="https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/02/12/31481893.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&q=75" group-title="英文电影",哪吒之魔童闹海
 https://m3u.nikanba.live/share/784713028fd2709fcb98e4d46f78cb2c.m3u8
+
 
 
