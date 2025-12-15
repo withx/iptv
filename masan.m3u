@@ -1,18 +1,18 @@
 #EXTM3U x-tvg-url="https://gh.catmak.name/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
 
-#EXTINF:-1 tvg-id="KBS1TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/11.jpg" group-title="韩国",KBS 1TV
+#EXTINF:-1 tvg-id="KBS1TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/11.png" group-title="韩国",KBS 1TV
 http://youtv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 tvg-id="KBS2TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/12.jpg" group-title="韩国",KBS 2TV
+#EXTINF:-1 tvg-id="KBS2TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/12.png" group-title="韩国",KBS 2TV
 http://youtv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="KBSDrama" tvg-logo="https://res.static.kbs.co.kr/img/ch/N91__white-color.jpg" group-title="韩国",KBS Drama
+#EXTINF:-1 tvg-id="KBSDrama" tvg-logo="https://res.static.kbs.co.kr/img/ch/N91.png" group-title="韩国",KBS Drama
 http://youtv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 tvg-id="KBSLife" tvg-logo="https://res.static.kbs.co.kr/img/ch/N93__white-color.jpg" group-title="韩国",KBS Life
+#EXTINF:-1 tvg-id="KBSLife" tvg-logo="https://res.static.kbs.co.kr/img/ch/N93.png" group-title="韩国",KBS Life
 http://youtv.dothome.co.kr/ch/catv/5.php
-EXTINF:-1 tvg-id="KBSStory" tvg-logo="https://res.static.kbs.co.kr/img/ch/N94__white-color.jpg" group-title="韩国",KBS Story
+EXTINF:-1 tvg-id="KBSStory" tvg-logo="https://res.static.kbs.co.kr/img/ch/N94.png" group-title="韩国",KBS Story
 http://youtv.dothome.co.kr/ch/catv/4.php
-EXTINF:-1 tvg-id="KBSStory" tvg-logo="https://news.kbs.co.kr/news/kbs24_thumb.jpg" group-title="韩国",KBS 24
+EXTINF:-1 tvg-id="KBSStory" tvg-logo="https://res.static.kbs.co.kr/img/ch/81.png" group-title="韩国",KBS 24
 http://youtv.dothome.co.kr/ch/catv/1.php
-#EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://res.static.kbs.co.kr/img/ch/14.jpg" group-title="韩国",KBS World
+#EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://res.static.kbs.co.kr/img/ch/14.png" group-title="韩国",KBS World
 http://youtv.dothome.co.kr/ch/catv/7.php
 
 #EXTINF:-1 tvg-id="MBC1" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="韩国",MBC 대전
