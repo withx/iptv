@@ -1,19 +1,19 @@
 #EXTM3U x-tvg-url="https://gh.catmak.name/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
 
 #EXTINF:-1 tvg-id="KBS1TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/11.png" group-title="🔖韩国频道",KBS 1TV
-http://youtv.dothome.co.kr/ch/public/1.php
+http://netv.dothome.co.kr/kbs.php?ch=11
 #EXTINF:-1 tvg-id="KBS2TV" tvg-logo="https://res.static.kbs.co.kr/img/ch/12.png" group-title="🔖韩国频道",KBS 2TV
-http://youtv.dothome.co.kr/ch/public/3.php
+http://netv.dothome.co.kr/kbs.php?ch=12
 #EXTINF:-1 tvg-id="KBSDrama" tvg-logo="https://res.static.kbs.co.kr/img/ch/N91.png" group-title="🔖韩国频道",KBS Drama
-http://youtv.dothome.co.kr/ch/catv/2.php
+http://netv.dothome.co.kr/kbs.php?ch=N91
 #EXTINF:-1 tvg-id="KBSLife" tvg-logo="https://res.static.kbs.co.kr/img/ch/N93.png" group-title="🔖韩国频道",KBS Life
-http://youtv.dothome.co.kr/ch/catv/5.php
+http://netv.dothome.co.kr/kbs.php?ch=N93
 EXTINF:-1 tvg-id="KBSStory" tvg-logo="https://res.static.kbs.co.kr/img/ch/N94.png" group-title="🔖韩国频道",KBS Story
-http://youtv.dothome.co.kr/ch/catv/4.php
-EXTINF:-1 tvg-id="KBSStory" tvg-logo="https://res.static.kbs.co.kr/img/ch/81.png" group-title="🔖韩国频道",KBS 24
-http://youtv.dothome.co.kr/ch/catv/1.php
+http://netv.dothome.co.kr/kbs.php?ch=N94
+EXTINF:-1 tvg-id="KBS24" tvg-logo="https://res.static.kbs.co.kr/img/ch/81.png" group-title="🔖韩国频道",KBS 24
+http://netv.dothome.co.kr/kbs.php?ch=81
 #EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://res.static.kbs.co.kr/img/ch/14.png" group-title="🔖韩国频道",KBS World
-http://youtv.dothome.co.kr/ch/catv/7.php
+http://netv.dothome.co.kr/kbs.php?ch=14
 
 
 #EXTINF:-1 tvg-id="MBC1" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="🔖韩国频道",MBC 대전
