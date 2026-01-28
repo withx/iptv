@@ -15,7 +15,8 @@ EXTINF:-1 tvg-id="KBS24" tvg-logo="https://res.static.kbs.co.kr/img/ch/81.png" g
 http://netv.dothome.co.kr/kbs.php?ch=81
 #EXTINF:-1 tvg-id="KBSWorld" tvg-logo="https://res.static.kbs.co.kr/img/ch/14.png" group-title="🔖韩国频道",KBS World
 http://netv.dothome.co.kr/kbs.php?ch=14
-
+#EXTINF:-1 tvg-id="YTN" tvg-logo="https://infor.ytn.co.kr/img/ytn/graphic_motif.png" group-title="🔖韩国频道",YTN
+http://124.216.116.56:9905/hls/01/index.m3u8
 #EXTINF:-1 tvg-id="MBC1" tvg-logo="https://play-lh.googleusercontent.com/OUrs7QN5nWUZzDJ10sVqVPyqNg6UXZDex2wfqID6uAaKeQydKRVJimy9ECYe4kMOKs8" group-title="🔖韩国频道",MBC 대전
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SBS1" tvg-logo="https://www.journalist.or.kr/data/photos/cdn/20230625/art_1687257058.jpg" group-title="🔖韩国频道",SBS 전주
@@ -6004,5 +6005,6 @@ https://v6.bxgbnet.com/sdv6/202501/17/kwasjF58Nq20/video/1000k_720/hls/index.m3u
 https://m3u8.hmrvideo.com/play/3ad644dc36274a1f86ec4fed5428de69.m3u8
 #EXTINF:-1 tvg-logo="https://pgw.worldjournal.com/gw/photo.php?u=https://uc.udn.com.tw/photo/wj/realtime/2025/02/12/31481893.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&q=75" group-title="英文电影",哪吒之魔童闹海
 https://m3u.nikanba.live/share/784713028fd2709fcb98e4d46f78cb2c.m3u8
+
 
 
