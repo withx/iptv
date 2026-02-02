@@ -298,11 +298,11 @@ http://r.jdshipin.com/ZQ4kN
 
 #EXTINF:-1 tvg-name="YTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",YTN
 http://124.216.116.56:9905/hls/01/index.m3u8
-#EXTINF:-1 tvg-name="YEANHAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",YEANHAP
+#EXTINF:-1 tvg-name="연합뉴스" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",연합뉴스
 http://124.216.116.56:9905/hls/02/index.m3u8
 #EXTINF:-1 tvg-name="JTBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",JTBC
 http://124.216.116.56:9905/hls/03/index.m3u8
-#EXTINF:-1 tvg-name="MK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MK
+#EXTINF:-1 tvg-name="매일경제" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",매일경제
 http://124.216.116.56:9905/hls/04/index.m3u8
 #EXTINF:-1 tvg-name="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MBC
 http://124.216.116.56:9905/hls/05/index.m3u8
@@ -312,9 +312,9 @@ http://124.216.116.56:9905/hls/06/index.m3u8
 http://124.216.116.56:9905/hls/07/index.m3u8
 #EXTINF:-1 tvg-name="KBS24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",KBS24
 http://124.216.116.56:9905/hls/08/index.m3u8
-#EXTINF:-1 tvg-name="CHN A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",CHN A
+#EXTINF:-1 tvg-name="채널A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",채널A
 http://124.216.116.56:9905/hls/09/index.m3u8
-#EXTINF:-1 tvg-name="HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",HK
+#EXTINF:-1 tvg-name="한국경제" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",한국경제
 http://124.216.116.56:9905/hls/10/index.m3u8
 #EXTINF:-1 tvg-name="MUSIC1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC1
 http://124.216.116.56:9905/hls/11/index.m3u8
@@ -326,5 +326,7 @@ http://124.216.116.56:9905/hls/13/index.m3u8
 http://124.216.116.56:9905/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="MUSIC5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC5
 http://124.216.116.56:9905/hls/15/index.m3u8
-#EXTINF:-1 tvg-name="MISS4_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MISS4_1
+#EXTINF:-1 tvg-name="MUSIC6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC6
 http://124.216.116.56:9905/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="MUSIC7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC7
+http://124.216.116.56:9905/hls/17/index.m3u8
