@@ -1,21 +1,27 @@
 {
-  "lives": [
+  "sites": [
     {
-      "group": "电影专区",
-      "channels": [
-        {
-          "name": "唐伯虎点秋香",
-          "urls": [
-            "https://play.xluuss.com/play/hls/Ddwk3gd1/index.m3u8"
-          ]
-        },
-        {
-          "name": "怦然心动",
-          "urls": [
-            "https://vip.ffzy-play2.com/20221022/319_db23d2dc/2000k/hls/mixed.m3u8"
-          ]
-        }
-      ]
+      "key": "my",
+      "name": "我的视频",
+      "type": 3,
+      "api": "",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "视频列表": [
+          {
+            "vod_name": "唐伯虎点秋香",
+            "vod_play_from": "线路1",
+            "vod_play_url": "播放$https://play.xluuss.com/play/hls/Ddwk3gd1/index.m3u8"
+          },
+          {
+            "vod_name": "怦然心动", 
+            "vod_play_from": "线路1",
+            "vod_play_url": "播放$https://vip.ffzy-play2.com/20221022/319_db23d2dc/2000k/hls/mixed.m3u8"
+          }
+        ]
+      }
     }
   ]
 }
