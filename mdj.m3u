@@ -214,7 +214,7 @@ http://124.216.116.56:9905/hls/08/index.m3u8
 http://124.216.116.56:9905/hls/09/index.m3u8
 #EXTINF:-1 tvg-name="한국경제" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",한국경제
 http://124.216.116.56:9905/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="1분상식" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",1분상식
+#EXTINF:-1 tvg-name="TED강연" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",TED강연
 http://124.216.116.56:9905/hls/11/index.m3u8
 #EXTINF:-1 tvg-name="MUSIC1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC1
 http://124.216.116.56:9905/hls/12/index.m3u8
