@@ -214,6 +214,12 @@ http://124.216.116.56:9905/hls/08/index.m3u8
 http://124.216.116.56:9905/hls/09/index.m3u8
 #EXTINF:-1 tvg-name="한국경제" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",한국경제
 http://124.216.116.56:9905/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.logodesignlove.com/images/monograms/cnn-logo.jpg" group-title="🎴TEST",CNN
+http://124.216.116.56:9905/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="BBC" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/image-3.png" group-title="🎴TEST",BBC
+http://124.216.116.56:9905/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="VOA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTegNEdf9OUw1BTuDJ45R3LocD_3f-1A3s9mw&s" group-title="🎴TEST",VOA
+http://124.216.116.56:9905/hls/13/index.m3u8
 #EXTINF:-1 tvg-name="MUSIC1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC1
 http://124.216.116.56:9905/hls/11/index.m3u8
 #EXTINF:-1 tvg-name="MUSIC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC2
@@ -266,6 +272,16 @@ http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 https://play-qukan.cztv.com/live/1746687519046362.m3u8
 
 #国际频道
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.logodesignlove.com/images/monograms/cnn-logo.jpg" group-title="🪄国际频道",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.logodesignlove.com/images/monograms/cnn-logo.jpg" group-title="🪄国际频道",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.logodesignlove.com/images/monograms/cnn-logo.jpg" group-title="🪄国际频道",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.logodesignlove.com/images/monograms/cnn-logo.jpg" group-title="🪄国际频道",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 tvg-name="BBC" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/image-3.png" group-title="🪄国际频道",BBC
+https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/BBCNEWS.png" group-title="🪄国际频道",BBC
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/ChannelAsia.png" group-title="🪄国际频道",CNA
@@ -368,14 +384,3 @@ https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 #EXTINF:-1 group-title="🪄国际频道",NextUp Live Comedy
 https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.logodesignlove.com/images/monograms/cnn-logo.jpg" group-title="🪄国际频道",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.logodesignlove.com/images/monograms/cnn-logo.jpg" group-title="🪄国际频道",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.logodesignlove.com/images/monograms/cnn-logo.jpg" group-title="🪄国际频道",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.logodesignlove.com/images/monograms/cnn-logo.jpg" group-title="🪄国际频道",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-
-#EXTINF:-1 tvg-name="BBC" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/03/image-3.png" group-title="🪄国际频道",BBC
-https://itpolly.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
