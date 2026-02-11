@@ -214,20 +214,22 @@ http://124.216.116.56:9905/hls/08/index.m3u8
 http://124.216.116.56:9905/hls/09/index.m3u8
 #EXTINF:-1 tvg-name="한국경제" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",한국경제
 http://124.216.116.56:9905/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="1분상식" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",1분상식
+http://124.216.116.56:9905/hls/11/index.m3u8
 #EXTINF:-1 tvg-name="MUSIC1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC1
-http://124.216.116.56:9905/hls/11/index.m3u8
+http://124.216.116.56:9905/hls/12/index.m3u8
 #EXTINF:-1 tvg-name="MUSIC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC2
-http://124.216.116.56:9905/hls/12/index.m3u8
+http://124.216.116.56:9905/hls/13/index.m3u8
 #EXTINF:-1 tvg-name="MUSIC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC3
-http://124.216.116.56:9905/hls/13/index.m3u8
-#EXTINF:-1 tvg-name="MUSIC4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC4
-http://124.216.116.56:9905/hls/11/index.m3u8
-#EXTINF:-1 tvg-name="MUSIC5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC5
-http://124.216.116.56:9905/hls/12/index.m3u8
-#EXTINF:-1 tvg-name="MUSIC6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC6
-http://124.216.116.56:9905/hls/13/index.m3u8
-#EXTINF:-1 tvg-name="MUSIC7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC7
 http://124.216.116.56:9905/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="MUSIC4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC4
+http://124.216.116.56:9905/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="MUSIC5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC5
+http://124.216.116.56:9905/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="MUSIC6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC6
+http://124.216.116.56:9905/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="MUSIC7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/330px-Test-Logo.svg.png" group-title="🎴TEST",MUSIC7
+http://124.216.116.56:9905/hls/18/index.m3u8
 
 #4K频道
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视4K.png" http-user-agent="AptvPlayer-UA" group-title="📜4K频道",北京卫视4K
